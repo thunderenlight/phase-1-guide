@@ -1,14 +1,14 @@
 ## Phase 1 README
 ### What should I be working on right now?
 - Week 1:
-  - [Monday](week-1/monday)
+  - [Monday](week-1/monday.md)
   - [Tuesday](https://gist.github.com/brickthorn/70d50a69fc15a5a4f88e)
   - [Wednesday](https://gist.github.com/brickthorn/c207b922a45c3880a58d)
   - [Thursday](https://gist.github.com/brickthorn/9308e8ade224c58797a8)
   - [Friday](https://gist.github.com/brickthorn/3d39e0fd643c889fe839)
   - [Weekend](https://gist.github.com/brickthorn/6a5f9d0e8b553081b4b0)
 
-- week 2:
+- Week 2:
   - [Monday](https://gist.github.com/brickthorn/73d66ed3de195561ea37)
   - [Tuesdays](https://gist.github.com/labe/ed256a6b4f48b7d87273)
   - [Wednesday](https://gist.github.com/labe/333bb6be122deac6e939)
@@ -16,7 +16,7 @@
   - [Friday](https://gist.github.com/labe/01b84a75712a7897bdf6)
   - [Weekend](https://gist.github.com/labe/2ae0b23a790c9ea77663)
 
-- week 3:
+- Week 3:
   - [Monday](https://gist.github.com/brickthorn/69c7b85b3e7c5c5d802a)
   - [Tuesday](https://gist.github.com/brickthorn/6e123310a226ffbb374f)
   - [Wednesday](https://gist.github.com/brickthorn/c9e882f069219257f4ae)
