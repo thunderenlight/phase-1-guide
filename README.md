@@ -2,7 +2,7 @@
 ### What should I be working on right now?
 - Week 1:
   - [Monday](week-1/monday.md)
-  - [Tuesday](https://gist.github.com/brickthorn/70d50a69fc15a5a4f88e)
+  - [Tuesday](week-1/tuesday.md)
   - [Wednesday](https://gist.github.com/brickthorn/c207b922a45c3880a58d)
   - [Thursday](https://gist.github.com/brickthorn/9308e8ade224c58797a8)
   - [Friday](https://gist.github.com/brickthorn/3d39e0fd643c889fe839)
