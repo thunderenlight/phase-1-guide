@@ -4,7 +4,7 @@
   - [Monday](week-1/monday.md)
   - [Tuesday](week-1/tuesday.md)
   - [Wednesday](week-1/wednesday.md)
-  - [Thursday](https://gist.github.com/brickthorn/9308e8ade224c58797a8)
+  - [Thursday](week-1/thursday.md)
   - [Friday](https://gist.github.com/brickthorn/3d39e0fd643c889fe839)
   - [Weekend](https://gist.github.com/brickthorn/6a5f9d0e8b553081b4b0)
 
