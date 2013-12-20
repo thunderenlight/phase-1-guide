@@ -36,13 +36,13 @@
 
 ##### Review Others Refactor Yours
 
-- Data Drill: [Nested Arrays]()
+- Data Drill: [Nested Arrays](https://github.com/Devbootcamp/data-drill-nested-arrays-challenge)
 - [Ruby Racer](https://github.com/Devbootcamp/ruby-racer-1-outrageous-fortune-challenge)
 - [Boggle 1: Basic Board Generation](https://github.com/Devbootcamp/boggle-1-basic-board-generation-challenge)
 
 ##### Stretch
 
-- Data Drill: [Stack and Queue]()
+- Data Drill: [Stack and Queue](https://github.com/Devbootcamp/data-drill-stack-and-queue-challenge)
 - Data Drill: [Linked List](https://github.com/Devbootcamp/data-drill-linked-list-challenge)
 
 ### Links of Interest
