@@ -42,11 +42,11 @@
 - Any drill that is unclear
 - Deaf Grandma
 - Dictionary Sort
-- Roman Numerals
+- [Roman Numerals](https://github.com/Devbootcamp/review-revisit-roman-numeral-challenge)
 
-##### [Review Others, Refactor Yours](https://github.com/Devbootcamp/review-others-refactor-yours-deaf-grandma-roman-numerals-challenge)
+##### [Review Others, Refactor Yours](https://github.com/Devbootcamp/review-others-refactor-yours-challenge)
 
-- Roman Numerals
+- [Deaf Grandma and Roman Numerals](https://github.com/Devbootcamp/review-others-refactor-yours-deaf-grandma-roman-numerals-challenge)
 
 ##### Stretch
 

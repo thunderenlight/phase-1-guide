@@ -36,7 +36,7 @@
 
 ##### Review Others Refactor Yours
 
-- Data Drill: [Nested Arrays](https://github.com/Devbootcamp/data-drill-nested-arrays-challenge)
+- Data Drill: [Nested Arrays 2](https://github.com/Devbootcamp/nested-arrays-2-ruby-for-conversion-and-seeding-challenge)
 - [Ruby Racer](https://github.com/Devbootcamp/ruby-racer-1-outrageous-fortune-challenge)
 - [Boggle 1: Basic Board Generation](https://github.com/Devbootcamp/boggle-1-basic-board-generation-challenge)
 
@@ -44,6 +44,8 @@
 
 - Data Drill: [Stack and Queue](https://github.com/Devbootcamp/data-drill-stack-and-queue-challenge)
 - Data Drill: [Linked List](https://github.com/Devbootcamp/data-drill-linked-list-challenge)
+- Review: [Abstract Data Structures](https://github.com/Devbootcamp/review-abstract-data-structures-challenge)
+- [Numbers in Words](https://github.com/Devbootcamp/numbers-in-words-challenge)
 
 ### Links of Interest
 

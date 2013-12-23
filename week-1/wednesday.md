@@ -50,6 +50,7 @@ On Wednesdays, you can have the choice to work alone for the entire day, a half 
 - Algorithm Drill: [Linear Search](https://github.com/Devbootcamp/algorithm-drill-linear-search-challenge)
 - Algorithm Drill: [Binary Search](https://github.com/Devbootcamp/algorithm-drill-binary-search-challenge)
 - [Recursion vs. Iteration: Benchmark it!](https://github.com/Devbootcamp/recursion-vs-iteration-benchmarking-it-challenge)
+- [Review Calculating Subsets With Recursion](https://github.com/Devbootcamp/review-calculating-subsets-with-recursion-challenge)
 
 #### Stretch
 
