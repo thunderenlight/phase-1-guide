@@ -22,3 +22,6 @@
 Double Pair Programming - we will break into teams of 4 to discuss and work on sudoku psuedocode (sudocode!), then split into new pairs of 2 to work on independent solutions, but with a group defined plan.
 
 Students will be grouped during orientation to make sure each group folks who know how to play sudoku.
+
+- [Sudoku, part one](https://github.com/Devbootcamp/sudoku-1-modeling-logic-challenge)
+- [Sudoku, part two](https://github.com/Devbootcamp/sudoku-2-guessing-challenge)

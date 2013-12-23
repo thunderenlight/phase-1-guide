@@ -33,8 +33,10 @@
 
 ##### Review Others, Refactor Yours
 
-- [Pig Latin](https://github.com/Devbootcamp/pig-latin-challenge)
+- [Pig Latin](https://github.com/Devbootcamp/review-others-refactor-yours-pig-latin-challenge)
 - Ruby Drill: [Destructive Methods](https://github.com/Devbootcamp/ruby-drill-destructive-methods-challenge)
+- [Enumerable Methods](https://github.com/Devbootcamp/review-enumerable-methods-challenge)
+- [Perfecting Pairing](https://github.com/Devbootcamp/perfecting-pairing-challenge)
 
 ##### Stretch
 

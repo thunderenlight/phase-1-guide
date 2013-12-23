@@ -29,6 +29,14 @@ What's your high bar?
 - [P2: Enumerables](http://socrates.devbootcamp.com/challenges/402)
 - [P3: Data Structures–Nested Arrays](http://socrates.devbootcamp.com/challenges/403)
 
+#### Review and Reflect
+
+- [Reflect on Learning](https://github.com/Devbootcamp/review-reflect-on-learning-challenge)
+- [Review, Reflect, and Iterate](https://github.com/Devbootcamp/review-reflect-and-iterate-challenge)
+- Prep: [Reading Practical Object Oriented Design In Ruby](https://github.com/Devbootcamp/prep-reading-practical-object-oriented-design-in-ruby-challenge)
+- [Feedback Loops](https://github.com/Devbootcamp/feedback-loops-challenge)
+- [Apprenticeship Patterns: Exposing Your Ignorance](https://github.com/Devbootcamp/apprenticeship-patterns-exposing-your-ignorance-challenge)
+
 <!---
 
 ##### Week 2
