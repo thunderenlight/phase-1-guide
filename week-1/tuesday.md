@@ -2,11 +2,19 @@
 
 ### Tuesday
 
-> AM - Daily Reflection, Challenges and Engineering Empathy (9:00 - 12:30)
+> 8:45 - 9:00 : Accountability Check In
 
-- Discussion: Aha! moments from previous day.
-- Challenges: New pairs.
-- Engineering Empathy (11:00 - 12:30): Feedback.
+> 9:00 - 9:15 : EE Meditation
+
+> 10:00 - 11:00 : Challenges with morning pair
+
+> 11:00 - 12:30 : Engineering Empathy (11:00 - 12:30): Feedback.
+
+> 12:30 -2:00 Yoga and Group Pictures
+
+> 2:00 -3:00 : Lecture - readable code
+
+> 3:00 - Late : Challenges with afternoon pair
 
 #### Core Challenges
 
@@ -43,13 +51,6 @@
 - [Words in a File](https://github.com/Devbootcamp/words-in-a-file-challenge)
 - Combating Smells: [Extract Method](https://github.com/Devbootcamp/combating-smells-extract-method-challenge)
 
---------------------------------------------------------------------------------
-
-##### PM Schedule
-
-> (12:40 - 1:30) yoga
-
-> (2:00) lecture: readable code
 
 ### Links of Interest
 

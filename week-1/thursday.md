@@ -1,19 +1,20 @@
 ## Week 1
 
 ### Thursday
+> 8:45 - 9:00 : Accountability Check In
 
-> AM - Daily Reflection & Challenges (9:00 - 12:30)
+> 9:00 - 9:15 : EE Practice
 
-- Discussion: Aha! moments from yesterday
-- Lecture: Nested data structures
-- Challenge preview: ruby racer
-- Challenges: new pairs
+> 9:15-10:00 : Lecture - Nested Data Structures, Challenge preview: ruby racer
 
-> PM - Q&C and Challenges (3:00 - ?)
+> 10:00 - 12:30 : Challenges with morning pair
 
-- Questions/comments?
-- Code review: MVP ruby racer
-- Challenges: same pairs'
+> 12:30 -2:00 Lunch
+
+> 2:00 -3:00 : Lecture - Code review: MVP ruby racer, Defined process vs empirical process and software estimation, Rubber duck debugging
+
+> 3:00 - Late : Challenges with afternoon pair
+
 
 #### Core
 
@@ -57,7 +58,4 @@
 - [blind men and an elephant](http://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
 - tribes we lead, seth godin [TED talk](http://www.ted.com/talks/seth_godin_on_the_tribes_we_lead.html), [community guide](http://sethgodin.typepad.com/seths_blog/files/TribesQA2.pdf)
 
-### Topics for Discussion
 
-- Defined process vs empirical process and software estimation
-- Rubber duck debugging

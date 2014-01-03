@@ -1,5 +1,11 @@
 ## Phase 1 README
+
+### Schedule of a day
+
+### How to submit a challenge
+
 ### What should I be working on right now?
+
 - Week 1:
   - [Monday](week-1/monday.md)
   - [Tuesday](week-1/tuesday.md)

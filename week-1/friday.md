@@ -1,27 +1,17 @@
 ## Week 1
 
 ### Friday
+> 8:45 - 9:00 : Accountability Check In
 
-> AM (10:00 - 10:30)
+> 9:00 - 9:15 : EE
 
-- 5 mins: Announcements and kudos
-- 15 mins: Aha! moments
-- 10 mins: Orientation to the day - sudoku!
-- 5 mins: QA
-
-> PM - (2:00 - ?)
-
-- Questions/comments?
-
-#### Topics
-
-1. Preview weekend work
-
-#### Pairing Partners
-
-Double Pair Programming - we will break into teams of 4 to discuss and work on sudoku psuedocode (sudocode!), then split into new pairs of 2 to work on independent solutions, but with a group defined plan.
-
-Students will be grouped during orientation to make sure each group folks who know how to play sudoku.
+> 10:00 - 12:30 : Group Project 
 
 - [Sudoku, part one](https://github.com/Devbootcamp/sudoku-1-modeling-logic-challenge)
 - [Sudoku, part two](https://github.com/Devbootcamp/sudoku-2-guessing-challenge)
+
+> 2:00 -3:00 : Break out
+
+> 3:00 - Late : Group Project
+
+> 4:00 - 5:00 : Retrospective

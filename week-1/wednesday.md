@@ -1,22 +1,19 @@
 ## Week 1
 
 ### Wednesday (solo-optional)
+> 8:45 - 9:00 : Accountability Check In
 
-On Wednesdays, you can have the choice to work alone for the entire day, a half day, or as much as you want.  You are also free to create teams and work together.  Or you can continue honing your pairing skills.
+> 9:00 - 9:15 : EE Practice
 
-> AM - Daily Reflection & Challenges (9:00 - 12:30)
+> 9:15-10:00 : Lecture: recursion
 
-- discussion (15 min): aha! moments from previous day
-- lecture: recursion
-- challenges: new pairs, solo, or new team members
+> 10:00 - 12:30 : Challenges with morning pair
 
-<!--
-- story (5 min): [blind men and an elephant](http://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
--->
+> 12:30 -2:00 Lunch
 
-> PM - New Challenges, New Pair
+> 2:00 -3:00 : Lecture - 
 
-> lunch (12:30 - 2:00)
+> 3:00 - Late : Challenges with afternoon pair
 
 ### Core
 
