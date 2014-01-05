@@ -6,7 +6,12 @@
 
 > 9:00 - 9:15 : EE Meditation
 
+> 9:15 - 10:00 : Lecture -
+
 > 10:00 - 11:00 : Challenges with morning pair
+
+1. [Pig Latin](https://github.com/Devbootcamp/pig-latin-challenge)
+- Design Drill: [Translate to Pseudocode](https://github.com/Devbootcamp/design-drill-translate-to-pseudocode-challenge)
 
 > 11:00 - 12:30 : Engineering Empathy (11:00 - 12:30): Feedback.
 
@@ -16,10 +21,6 @@
 
 > 3:00 - Late : Challenges with afternoon pair
 
-#### Core Challenges
-
-1. [Pig Latin](https://github.com/Devbootcamp/pig-latin-challenge)
-- Design Drill: [Translate to Pseudocode](https://github.com/Devbootcamp/design-drill-translate-to-pseudocode-challenge)
 - Ruby Drill: [Enumerable Methods](https://github.com/Devbootcamp/ruby-drill-enumerable-methods-challenge)
 - Algorithm Drill: [Shuffle](https://github.com/Devbootcamp/algorithm-drill-shuffle-challenge)
 - [Enacting Enumerables](https://github.com/Devbootcamp/enacting-enumerables-challenge)

@@ -1,7 +1,15 @@
 # How to Submit a Challenge
 
+We will be using github to submit and review all challenges.  The standard github flow we will use is:
 
-GOOD INFO HERE.
+```
+Step 1: Fork
+
+
+
+**Do not (DO NOT) ever (EVER) merge a pull request into master. **
+
+```
 
 
 ### Notes

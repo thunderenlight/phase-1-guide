@@ -10,8 +10,6 @@
 
 > 3:00 - Late : Challenges with afternoon pair
 
-#### Core Challenges
-
 - [Deaf Grandma](https://github.com/Devbootcamp/deaf-grandma-challenge)
 - [Dictionary Sort](https://github.com/Devbootcamp/dictionary-sort-challenge)
 - [Debugging Drill: Use a REPL](https://github.com/Devbootcamp/debugging-drill-use-a-repl-challenge)
@@ -32,7 +30,7 @@
 - Dictionary Sort
 - [Roman Numerals](https://github.com/Devbootcamp/review-revisit-roman-numeral-challenge)
 
-##### [Review Others, Refactor Yours](https://github.com/Devbootcamp/review-others-refactor-yours-challenge)
+##### Review Others, Refactor Yours [See General Instructions](https://github.com/Devbootcamp/review-others-refactor-yours-challenge)
 
 - [Deaf Grandma and Roman Numerals](https://github.com/Devbootcamp/review-others-refactor-yours-deaf-grandma-roman-numerals-challenge)
 
