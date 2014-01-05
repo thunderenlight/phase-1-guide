@@ -5,6 +5,8 @@
 
 > 9:00 - 9:15 : EE
 
+> 9:15 - 10:00 Lecture - 
+
 > 10:00 - 12:30 : Group Project 
 
 - [Sudoku, part one](https://github.com/Devbootcamp/sudoku-1-modeling-logic-challenge)

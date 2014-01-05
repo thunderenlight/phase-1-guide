@@ -7,23 +7,20 @@
 
 > 9:15-10:00 : Lecture: recursion
 
-> 10:00 - 12:30 : Challenges with morning pair
+> 10:00 - 12:30 : Challenges with morning pair (one on one with teachers)
 
-> 12:30 -2:00 Lunch
-
-> 2:00 -3:00 : Lecture - 
-
-> 3:00 - Late : Challenges with afternoon pair
-
-### Core
-
-#### AM:
 - Algorithm Drill: [Factorial](https://github.com/Devbootcamp/algorithm-drill-factorial-challenge)
 - [The Fibonacci Sequence](https://github.com/Devbootcamp/the-fibonacci-sequence-challenge)
 - [Recursion vs. Iteration: Benchmark it!](https://github.com/Devbootcamp/recursion-vs-iteration-benchmarking-it-challenge)
 - Algorithm Drill: [Prime Factors](https://github.com/Devbootcamp/algorithm-drill-prime-factors-challenge)
 
-#### PM:
+
+> 12:30 -2:00 Lunch
+
+> 2:00 -3:00 : Lecture - 
+
+> 3:00 - Late : Challenges with afternoon pair (one on one with teachers)
+
 - Anagrams 1: [Detecting Anagrams](https://github.com/Devbootcamp/anagrams-1-detecting-anagrams-challenge)
 - Anagrams 2: [Generating Anagrams](https://github.com/Devbootcamp/anagrams-2-generating-anagrams-challenge)
 - Algorithm Drill: [Linear Search](https://github.com/Devbootcamp/algorithm-drill-linear-search-challenge)

@@ -7,7 +7,9 @@
 
 > 9:15-10:00 : Lecture - Nested Data Structures, Challenge preview: ruby racer
 
-> 10:00 - 12:30 : Challenges with morning pair
+> 10:00 - 12:30 : Challenges with morning pair (one on one with teachers)
+
+- Data Drill: [Nested Arrays](https://github.com/Devbootcamp/data-drill-nested-arrays-challenge)
 
 > 12:30 -2:00 Lunch
 
@@ -15,10 +17,6 @@
 
 > 3:00 - Late : Challenges with afternoon pair
 
-
-#### Core
-
-- Data Drill: [Nested Arrays](https://github.com/Devbootcamp/data-drill-nested-arrays-challenge)
 - [Ruby Racer](https://github.com/Devbootcamp/ruby-racer-1-outrageous-fortune-challenge)
 - [Boggle 1: Basic Board Generation](https://github.com/Devbootcamp/boggle-1-basic-board-generation-challenge)
 - [Boggle 2: Word Checker](https://github.com/Devbootcamp/boggle-2-word-checker-challenge)
