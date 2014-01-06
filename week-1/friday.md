@@ -10,8 +10,8 @@
 
 > 10:00 - 12:30 : Group Project 
 
-- [Sudoku, part one](https://github.com/Devbootcamp/sudoku-1-modeling-logic-challenge)
-- [Sudoku, part two](https://github.com/Devbootcamp/sudoku-2-guessing-challenge)
+- [Sudoku, part one](https://github.com/sea-lions-2014/sudoku-1-modeling-logic-challenge)
+- [Sudoku, part two](https://github.com/sea-lions-2014/sudoku-2-guessing-challenge)
 
 > 2:00 -3:00 : Break out
 
