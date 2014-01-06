@@ -4,6 +4,9 @@
 
 > 8:45 - 9:00 : Accountability Check In
 
+- (5 minutes) - Personal checkin
+- (5-10 minutes) - What was something that a previous pair did that really worked for you and made the pairing session great?
+
 > 9:00 - 9:15 : EE
 
 > 9:15 - 10:00 Lecture - 
