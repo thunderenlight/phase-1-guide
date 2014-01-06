@@ -1,4 +1,4 @@
-# Welcome to Phase 1 
+# Welcome to Phase 1
 
 ### What should I be working on right now?
 
@@ -27,6 +27,7 @@
   - [Weekend](week-3/weekend.md)
 
 ### Phase Tools
+
 * [Learning Competencies](learning-competency.md) 
 * [Working Agreement](working-agreement.md)
 * [How to Submit a Challenge](how-to-submit.md)

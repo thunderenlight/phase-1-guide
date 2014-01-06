@@ -4,7 +4,7 @@
 - We meet in the Cave every morning at 9 am sharp.
 - We meet in the Cave every afternoon at 2 pm sharp.
 - Our top priorities for this phase are:
-  - Learning how to respond appropriately (vs. react… to error messages, challenges, and self talk)
-  - Learning how to communicate (what you're feeling, thinking, and needing)
-  - Learning how to build and use mental models
-  - Seeking opportunities to help each other, grow as individuals, and as a tribe
+  - Learning how to appropriately respond versus react… to error messages, challenges, and self talk.
+  - Learning how to communicate what you're feeling, thinking, and needing.
+  - Learning how to build and use mental models.
+  - Seeking opportunities to help each other, grow as individuals, and as a tribe.

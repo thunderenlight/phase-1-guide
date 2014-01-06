@@ -6,5 +6,3 @@ Learning Competencies provide you with a clear, transparent way to measure your 
 - [Week 1](learning-competencies/week1-lc.md)
 - [Week 2]
 - [Week 3]
-
-

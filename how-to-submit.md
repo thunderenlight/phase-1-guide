@@ -28,8 +28,7 @@ git commit -m "added test code"
 git push origin StrandM-AND-AnneS
 ```
 
-5. Go to github and submit a pull request to master from your branch. 
-**Do not (DO NOT) ever (EVER) merge a pull request into master. **
+5. Go to github and submit a pull request to master from your branch. **Do not (DO NOT) ever (EVER) merge a pull request into master. **
 
 6. A teacher or fellow boot will review your code by commenting on your pull request.  
 
