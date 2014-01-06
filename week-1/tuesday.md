@@ -4,7 +4,8 @@
 
 > 8:45 - 9:00 : Accountability Check In
 
-  - 10 minute discussion:  What was your favorite team experience?  What made it so memorable?
+- (5 minutes) - Personal checkin
+- (5-10 minutes) - 10 minute discussion:  What was your favorite team experience?  What made it so memorable?
   
 > 9:00 - 9:15 : EE Meditation
 
