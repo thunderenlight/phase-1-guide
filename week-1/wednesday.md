@@ -1,6 +1,7 @@
 ## Week 1
 
 ### Wednesday (solo-optional)
+
 > 8:45 - 9:00 : Accountability Check In
 
 > 9:00 - 9:15 : EE Practice
@@ -55,13 +56,3 @@
 - Ruby Drill: [Control Flow in Loops](https://github.com/Devbootcamp/ruby-drill-control-flow-in-loops-challenge)
 - [Performance Journaling](https://github.com/Devbootcamp/performance-journaling-challenge)
 
-### Links of Interest
-
-- [Is Ruby pass by reference or value?](http://stackoverflow.com/questions/1872110/is-ruby-pass-by-reference-or-by-value)
-- [Primitive Data Types](http://en.wikipedia.org/wiki/Primitive_data_type)
-- [Favorite IRB tricks](http://stackoverflow.com/questions/123494/whats-your-favourite-irb-trick)
-- [Rubular: a Regax Editor](http://rubular.com/)
-- [Regexper: Visualizing Regex](http://www.regexper.com/)
-- [Regex Examples](http://www.regular-expressions.info/examples.html)
-- [Onigurama: Regex in Ruby](http://www.geocities.jp/kosako3/oniguruma/doc/RE.txt)
-- [Enumerable](http://ruby-doc.org/core-1.9.3/Enumerable.html)

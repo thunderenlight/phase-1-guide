@@ -1,6 +1,7 @@
 ## Week 1
 
 ### Friday
+
 > 8:45 - 9:00 : Accountability Check In
 
 > 9:00 - 9:15 : EE
