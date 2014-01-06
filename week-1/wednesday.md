@@ -4,6 +4,9 @@
 
 > 8:45 - 9:00 : Accountability Check In
 
+- (5 minutes) - Personal checkin
+- (5-10 minutes) - What was your favorite group learning experience?  What were the facets that made it so great?
+
 > 9:00 - 9:15 : EE Practice
 
 > 9:15-10:00 : Lecture: recursion
