@@ -27,6 +27,7 @@
   - [Weekend](week-3/weekend.md)
 
 ### Phase Tools
-* [Learning goals](learning-competency.md) 
+* [Learning Competencies](learning-competency.md) 
 * [Working Agreement](working-agreement.md)
 * [How to Submit a Challenge](how-to-submit.md)
+* [Resource Links](resources.md)

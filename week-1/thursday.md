@@ -1,6 +1,7 @@
 ## Week 1
 
 ### Thursday
+
 > 8:45 - 9:00 : Accountability Check In
 
 > 9:00 - 9:15 : EE Practice
@@ -45,15 +46,5 @@
 - Data Drill: [Linked List](https://github.com/Devbootcamp/data-drill-linked-list-challenge)
 - Review: [Abstract Data Structures](https://github.com/Devbootcamp/review-abstract-data-structures-challenge)
 - [Numbers in Words](https://github.com/Devbootcamp/numbers-in-words-challenge)
-
-### Links of Interest
-
-- [more about variable scoping](https://gist.github.com/alycit/cce40544f02946715266)
-- [shoutout re: piglatin](https://gist.github.com/dmill/c558a263d04d2f861a95)
-- [SOLID by UncleBob](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
-- [SOLID object oriented design](http://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-- [memoization](http://en.wikipedia.org/wiki/Memoization)
-- [blind men and an elephant](http://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
-- tribes we lead, seth godin [TED talk](http://www.ted.com/talks/seth_godin_on_the_tribes_we_lead.html), [community guide](http://sethgodin.typepad.com/seths_blog/files/TribesQA2.pdf)
 
 

@@ -54,11 +54,3 @@
 
 
 ### Links of Interest
-
-- [Rubular for testing ruby-style regex online](http://rubular.com/)
-- [Onigurama](http://www.geocities.jp/kosako3/oniguruma/doc/RE.txt)
-- [Ruby Operators](http://www.tutorialspoint.com/ruby/ruby_operators.htm)
-- [The String#=~ method (the one that matches regexes)](http://www.ruby-doc.org/core-1.9.3/String.html#method-i-3D-7E)
-- [Nokogiri for parsing HTML (and other stuff)](http://nokogiri.org/)
-- [Mail::RFC822::Address: regexp-based address validation](http://ex-parrot.com/~pdw/Mail-RFC822-Address.html)
-- [Important RFCs](http://tangentsoft.net/rfcs/)
