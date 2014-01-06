@@ -31,4 +31,5 @@
 * [Learning Competencies](learning-competency.md) 
 * [Working Agreement](working-agreement.md)
 * [How to Submit a Challenge](how-to-submit.md)
+* [Schedules](schedule.md)
 * [Resource Links](resources.md)
