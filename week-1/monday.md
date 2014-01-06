@@ -8,6 +8,8 @@
 
 > 2:00 -3:00 : Lecture - Introduction to Socrates and Challenge Submission
 
+- [Two Truths and a Lie](https://github.com/sea-lions-2014/two-truths-and-a-lie)
+
 > 3:00 - Late : Challenges with afternoon pair
 
 - [Deaf Grandma](https://github.com/sea-lions-2014/deaf-grandma-challenge)
