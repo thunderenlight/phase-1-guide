@@ -4,6 +4,9 @@
 
 > 8:45 - 9:00 : Accountability Check In
 
+- (5 minutes) - Personal checkin
+- (5-10 minutes) - What was something that you learned in one of the last pairing sessions?  A shortcut, a new trick, a novel insight, etc.
+
 > 9:00 - 9:15 : EE Practice
 
 > 9:15-10:00 : Lecture - Nested Data Structures, Challenge preview: ruby racer
