@@ -17,12 +17,6 @@
 
 > 11:00 - 12:30 : Engineering Empathy (11:00 - 12:30) - Superego
 
-**References:**
-- [Phillip Goldin on Distorted Views of the Self](http://www.youtube.com/watch?v=bKtBxxR0JRM#t=1243) (around 20:40)
-- [More SIY videos](http://www.siyli.org/take-the-course/siy-curriculum/)
-- [A New Way to Respond to "Failure" - Tales of overcoming the Superego](http://www.youtube.com/watch?v=_tjYoKCBYag)
-- [More information on Fixed vs. Growth Mindsets](http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/)
-
 > 12:30 -2:00 Yoga and Group Pictures
 
 > 2:00 -3:00 : Lecture - readable code
@@ -62,3 +56,7 @@
 
 
 ### Links of Interest
+- [Phillip Goldin on Distorted Views of the Self](http://www.youtube.com/watch?v=bKtBxxR0JRM#t=1243) (around 20:40)
+- [More SIY videos](http://www.siyli.org/take-the-course/siy-curriculum/)
+- [A New Way to Respond to "Failure" - Tales of overcoming the Superego](http://www.youtube.com/watch?v=_tjYoKCBYag)
+- [More information on Fixed vs. Growth Mindsets](http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/)
