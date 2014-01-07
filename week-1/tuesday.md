@@ -15,7 +15,13 @@
 1. [Pig Latin](https://github.com/sea-lions-2014/pig-latin-challenge)
 - Design Drill: [Translate to Pseudocode](https://github.com/sea-lions-2014/design-drill-translate-to-pseudocode-challenge)
 
-> 11:00 - 12:30 : Engineering Empathy (11:00 - 12:30): Feedback.
+> 11:00 - 12:30 : Engineering Empathy (11:00 - 12:30) - Superego
+
+**References:**
+- [Phillip Goldin on Distorted Views of the Self](http://www.youtube.com/watch?v=bKtBxxR0JRM#t=1243) (around 20:40)
+- [More SIY videos](http://www.siyli.org/take-the-course/siy-curriculum/)
+- [A New Way to Respond to "Failure" - Tales of overcoming the Superego](http://www.youtube.com/watch?v=_tjYoKCBYag)
+- [More information on Fixed vs. Growth Mindsets](http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/)
 
 > 12:30 -2:00 Yoga and Group Pictures
 
