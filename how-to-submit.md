@@ -1,21 +1,25 @@
 # How to Submit a Challenge
 
-We will be using github to submit and review all challenges.  There are three standard workflows we will use.
+We will be using github to submit and review all challenges. There are three standard workflows we will use.
+
+1. [Challenge Submission Workflow](#challenge-submission-workflow)
+1. [Challenge Review and Refactor Workflow](#challenge-review-and-refactor-workflow)
+1. [Group Project Workflow](#group-project-workflow)
 
 ## Challenge Submission Workflow
 
 Clone the repository into your local repository
 
 ```shell
-git clone  REPOSITORY_PATH
+git clone REPOSITORY_PATH
 ```
 
-Create a branch named YOUR_NAME (if solo) or PAIR_NAME_1-AND-PAIR_NAME_2 (if working in a pair) and checkout this branch.  **Note:** please use first name and last initial or full names to avoid confusion.
+Create a branch named YOUR_NAME (if solo) or PAIR_NAME_1-AND-PAIR_NAME_2 (if working in a pair) and checkout this branch. **Note:** please use first name and last initial or full names to avoid confusion.
 
 ```shell
 git checkout -b StrandM-AND-AnneS
 ```
-Complete your challenge.  Commit early and often with meaningful commit messages.
+Complete your challenge. Commit early and often with meaningful commit messages.
 
 ```shell
 git add filename
@@ -40,7 +44,7 @@ When completing a challenge review, you will need to get the existing code from 
 If you don't already have a local copy of the repository, clone the repository into your local repository
 
 ```shell
-git clone  REPOSITORY_PATH
+git clone REPOSITORY_PATH
 ```
 
 If you do already have a local copy of the repository, make sure the master branch is up to date.
@@ -59,9 +63,9 @@ git checkout StrandM-AND-AnneS
 From this branch, create a new branch for your review and refactor.
 
 ```shell
-git checkout -b StrandM-AND-AnneS-refactor
+git checkout -b BrickT-refactor
 ```
-Complete your challenge.  Commit early and often with meaningful commit messages.
+Complete your challenge. Commit early and often with meaningful commit messages.
 
 ```shell
 git add filename
@@ -71,7 +75,7 @@ git commit -m "added test code"
 When you have a completed challenge, push your branch to github
 
 ```shell
-git push origin StrandM-AND-AnneS-refactor
+git push origin BrickT-refactor
 ```
 
 Go to github and submit a pull request to the branch you are reviewing (`StrandM-AND-AnneS`) from your branch (`StrandM-AND-AnneS-refactor`).
@@ -83,7 +87,7 @@ A teacher or fellow boot will review your code by commenting on your pull reques
 
 When working on a group project, you will be starting with a brand new repository which you will create as a private repository in the sea-lions-2014 organization.
 
-Create a new repository on github.
+[Create a new repository on github](https://help.github.com/articles/create-a-repo).
 
 Clone this repository (empty except for a README.md file) to your local repository.
 
@@ -110,7 +114,7 @@ When you have working, complete code for your feature, push your branch to githu
 git push origin featureX
 ```
 
-Since this pull request is to your team repository, you **CAN** merge into master.  A good workflow is to require another teammate to review your pull request and merge it.
+Since this pull request is to your team repository, you **CAN** merge into master. A good workflow is to require another teammate to review your pull request and merge it.
 
 Before working on a another feature, make sure you always have the latest version of master by first merging any open pull requests on github and then pulling these changes into your local master branch.
 
