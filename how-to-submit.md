@@ -4,7 +4,7 @@ We will be using github to submit and review all challenges.  There are three st
 
 ## Challenge Submission Workflow
 
-Clone the repository into your local repository 
+Clone the repository into your local repository
 
 ```shell
 git clone  REPOSITORY_PATH
@@ -15,7 +15,7 @@ Create a branch named YOUR_NAME (if solo) or PAIR_NAME_1-AND-PAIR_NAME_2 (if wor
 ```shell
 git checkout -b StrandM-AND-AnneS
 ```
-Complete your challenge.  Commit early and often with meaningful commit messages. 
+Complete your challenge.  Commit early and often with meaningful commit messages.
 
 ```shell
 git add filename
@@ -30,14 +30,14 @@ git push origin StrandM-AND-AnneS
 
 Go to github and submit a pull request to master from your branch. **Do not (DO NOT) ever (EVER) merge a pull request into master. **
 
-A teacher or fellow boot will review your code by commenting on your pull request.  
+A teacher or fellow boot will review your code by commenting on your pull request.
 
 ## Challenge Review and Refactor Workflow
 
-When completing a challenge review, you will need to get the existing code from a branch on github so the workflow is slightly different. 
+When completing a challenge review, you will need to get the existing code from a branch on github so the workflow is slightly different.
 
 
-If you don't already have a local copy of the repository, clone the repository into your local repository 
+If you don't already have a local copy of the repository, clone the repository into your local repository
 
 ```shell
 git clone  REPOSITORY_PATH
@@ -61,7 +61,7 @@ From this branch, create a new branch for your review and refactor.
 ```shell
 git checkout -b StrandM-AND-AnneS-refactor
 ```
-Complete your challenge.  Commit early and often with meaningful commit messages. 
+Complete your challenge.  Commit early and often with meaningful commit messages.
 
 ```shell
 git add filename
@@ -74,18 +74,18 @@ When you have a completed challenge, push your branch to github
 git push origin StrandM-AND-AnneS-refactor
 ```
 
-Go to github and submit a pull request to the branch you are reviewing (`StrandM-AND-AnneS`) from your branch (`StrandM-AND-AnneS-refactor`). 
+Go to github and submit a pull request to the branch you are reviewing (`StrandM-AND-AnneS`) from your branch (`StrandM-AND-AnneS-refactor`).
 **Do not (DO NOT) merge your pull request.**
 
-A teacher or fellow boot will review your code by commenting on your pull request.  
+A teacher or fellow boot will review your code by commenting on your pull request.
 
 ## Group Project Workflow
 
 When working on a group project, you will be starting with a brand new repository which you will create as a private repository in the sea-lions-2014 organization.
 
-Create a new repository on github.  
+Create a new repository on github.
 
-Clone this repository (empty except for a README.md file) to your local repository. 
+Clone this repository (empty except for a README.md file) to your local repository.
 
 ```shell
 git clone REPOSITORY_PATH
@@ -115,7 +115,7 @@ Since this pull request is to your team repository, you **CAN** merge into maste
 Before working on a another feature, make sure you always have the latest version of master by first merging any open pull requests on github and then pulling these changes into your local master branch.
 
 ```shell
-git checkout master  
+git checkout master
 git pull origin master
 ```
 
