@@ -6,7 +6,7 @@
 
 > 9:00 - 9:15 : EE Meditation
 
-> 9:15 - 10:00 : Lecture -
+> 9:15 - 10:00 : Lecture - [Refactoring Roman Numerals](http://talks.devbootcamp.com/code-smells-refactoring-roman-numerals)
 
 > 10:00 - 11:00 : Challenges with morning pair
 
