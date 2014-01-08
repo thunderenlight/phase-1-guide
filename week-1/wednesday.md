@@ -9,9 +9,9 @@
 
 > 9:00 - 9:15 : EE Practice
 
-> 9:15-10:00 : Lecture: recursion
+> 9:15-10:00 : Lecture: Recursion
 
-> 10:00 - 12:30 : Challenges with morning pair (one on one with teachers)
+> 10:00 - 12:30 : Challenges with morning pair ([one on one with teachers](https://docs.google.com/a/devbootcamp.com/spreadsheet/ccc?key=0AozpO5yzg9E6dEdEWVhhME8yeVYzd1V4am9qMTVjX2c&usp=sharing#gid=0))
 
 - Algorithm Drill: [Factorial](https://github.com/sea-lions-2014/algorithm-drill-factorial-challenge)
 - [The Fibonacci Sequence](https://github.com/sea-lions-2014/the-fibonacci-sequence-challenge)
@@ -21,7 +21,7 @@
 
 > 12:30 -2:00 Lunch
 
-> 2:00 -3:00 : Lecture - 
+> 2:00 -3:00 : Lecture - Linear and Binary Search
 
 > 3:00 - Late : Challenges with afternoon pair (one on one with teachers)
 
