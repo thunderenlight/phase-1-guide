@@ -32,7 +32,9 @@
 - Dictionary Sort
 - [Roman Numerals](https://github.com/sea-lions-2014/review-revisit-roman-numeral-challenge)
 
-##### Review Others, Refactor Yours [See General Instructions](https://github.com/sea-lions-2014/review-others-refactor-yours-challenge)
+##### Review Others, Refactor Yours 
+
+[See General Instructions](https://github.com/sea-lions-2014/review-others-refactor-yours-challenge)
 
 - [Deaf Grandma and Roman Numerals](https://github.com/sea-lions-2014/review-others-refactor-yours-deaf-grandma-roman-numerals-challenge)
 

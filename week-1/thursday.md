@@ -11,17 +11,18 @@
 
 > 9:15-10:00 : Lecture - Nested Data Structures, Challenge preview: ruby racer
 
-> 10:00 - 12:30 : Challenges with morning pair (one on one with teachers)
+> 10:00 - 12:30 : Challenges with morning pair ([one on one with teachers](https://docs.google.com/a/devbootcamp.com/spreadsheet/ccc?key=0AozpO5yzg9E6dEdEWVhhME8yeVYzd1V4am9qMTVjX2c&usp=sharing#gid=0)))
 
 - Data Drill: [Nested Arrays](https://github.com/sea-lions-2014/data-drill-nested-arrays-challenge)
+
+- [Ruby Racer](https://github.com/sea-lions-2014/ruby-racer-1-outrageous-fortune-challenge)
 
 > 12:30 -2:00 Lunch
 
 > 2:00 -3:00 : Lecture - Code review: MVP ruby racer, Defined process vs empirical process and software estimation, Rubber duck debugging
 
-> 3:00 - Late : Challenges with afternoon pair
+> 3:00 - Late : Challenges with afternoon pair (one on one with teachers)
 
-- [Ruby Racer](https://github.com/sea-lions-2014/ruby-racer-1-outrageous-fortune-challenge)
 - [Boggle 1: Basic Board Generation](https://github.com/sea-lions-2014/boggle-1-basic-board-generation-challenge)
 - [Boggle 2: Word Checker](https://github.com/sea-lions-2014/boggle-2-word-checker-challenge)
 
@@ -38,6 +39,8 @@
 - [Boggle 1: Basic Board Generation](https://github.com/sea-lions-2014/boggle-1-basic-board-generation-challenge)
 
 ##### Review Others Refactor Yours
+
+[See General Instructions](https://github.com/sea-lions-2014/review-others-refactor-yours-challenge)
 
 - Data Drill: [Nested Arrays 2](https://github.com/sea-lions-2014/nested-arrays-2-ruby-for-conversion-and-seeding-challenge)
 - [Ruby Racer](https://github.com/sea-lions-2014/ruby-racer-1-outrageous-fortune-challenge)

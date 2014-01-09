@@ -45,6 +45,8 @@
 
 #### Review Others Refactor Yours
 
+[See General Instructions](https://github.com/sea-lions-2014/review-others-refactor-yours-challenge)
+
 - Algorithm Drill: [Linear Search](https://github.com/sea-lions-2014/algorithm-drill-linear-search-challenge)
 - Algorithm Drill: [Binary Search](https://github.com/sea-lions-2014/algorithm-drill-binary-search-challenge)
 - [Recursion vs. Iteration: Benchmark it!](https://github.com/sea-lions-2014/recursion-vs-iteration-benchmarking-it-challenge)
@@ -57,5 +59,4 @@
 - [Linear vs. Binary Search](https://github.com/sea-lions-2014/binary-vs-linear-searching-challenge)
 - [Prime Factors: Sieve of Eratosthenes](https://github.com/sea-lions-2014/prime-factors-sieve-of-eratosthenes-challenge)
 - Ruby Drill: [Control Flow in Loops](https://github.com/sea-lions-2014/ruby-drill-control-flow-in-loops-challenge)
-- [Performance Journaling](https://github.com/sea-lions-2014/performance-journaling-challenge)
 
