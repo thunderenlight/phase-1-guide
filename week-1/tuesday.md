@@ -42,11 +42,13 @@
 - [Pig Latin](https://github.com/sea-lions-2014/pig-latin-challenge)
 - Algorithm Drill: [Shuffle](https://github.com/sea-lions-2014/algorithm-drill-shuffle-challenge)
 
-##### Review Others, Refactor Yours
+##### Review Others, Refactor Yours 
 
-- [Pig Latin](https://github.com/sea-lions-2014/review-others-refactor-yours-pig-latin-challenge)
+[See General Instructions](https://github.com/sea-lions-2014/review-others-refactor-yours-challenge)
+
+- [Pig Latin](https://github.com/sea-lions-2014/pig-latin-challenge)
 - Ruby Drill: [Destructive Methods](https://github.com/sea-lions-2014/ruby-drill-destructive-methods-challenge)
-- [Enumerable Methods](https://github.com/sea-lions-2014/review-enumerable-methods-challenge)
+- [Enumerable Methods](https://github.com/sea-lions-2014/enumerable-methods-challenge)
 - [Perfecting Pairing](https://github.com/sea-lions-2014/perfecting-pairing-challenge)
 
 ##### Stretch
