@@ -14,7 +14,7 @@
 > 10:00 - 12:30 : Challenges with morning pair ([one on one with teachers](https://docs.google.com/a/devbootcamp.com/spreadsheet/ccc?key=0AozpO5yzg9E6dEdEWVhhME8yeVYzd1V4am9qMTVjX2c&usp=sharing#gid=0)))
 
 - Data Drill: [Nested Arrays](https://github.com/sea-lions-2014/data-drill-nested-arrays-challenge)
-
+- Data Drill: [Nested Arrays 2](https://github.com/sea-lions-2014/nested-arrays-2-ruby-for-conversion-and-seeding-challenge)
 - [Ruby Racer](https://github.com/sea-lions-2014/ruby-racer-1-outrageous-fortune-challenge)
 
 > 12:30 -2:00 Lunch
@@ -46,7 +46,9 @@
 - [Ruby Racer](https://github.com/sea-lions-2014/ruby-racer-1-outrageous-fortune-challenge)
 - [Boggle 1: Basic Board Generation](https://github.com/sea-lions-2014/boggle-1-basic-board-generation-challenge)
 
+
 ##### Stretch
+
 
 - Data Drill: [Stack and Queue](https://github.com/sea-lions-2014/data-drill-stack-and-queue-challenge)
 - Data Drill: [Linked List](https://github.com/sea-lions-2014/data-drill-linked-list-challenge)
