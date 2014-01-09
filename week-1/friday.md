@@ -7,16 +7,16 @@
 - (5 minutes) - Personal checkin
 - (5-10 minutes) - What was something that a previous pair did that really worked for you and made the pairing session great?
 
-> 9:00 - 9:15 : EE
+> 9:00 - 10:00 : Group Checkins
 
-> 9:15 - 10:00 Lecture - 
+> 10:00 - 11:00 Lecture - Psudoku
 
 > 10:00 - 12:30 : Group Project 
 
 - [Sudoku, part one](https://github.com/sea-lions-2014/sudoku-1-modeling-logic-challenge)
 - [Sudoku, part two](https://github.com/sea-lions-2014/sudoku-2-guessing-challenge)
 
-> 2:00 -3:00 : Break out
+> 2:00 -3:00 : Break out (optional)
 
 > 3:00 - Late : Group Project
 
