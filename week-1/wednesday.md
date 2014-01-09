@@ -59,5 +59,3 @@
 - [Prime Factors: Sieve of Eratosthenes](https://github.com/sea-lions-2014/prime-factors-sieve-of-eratosthenes-challenge)
 - Ruby Drill: [Control Flow in Loops](https://github.com/sea-lions-2014/ruby-drill-control-flow-in-loops-challenge)
 - [Calculating Subsets With Recursion](https://github.com/sea-lions-2014/calculating-subsets-with-recursion-challenge)
-
-
