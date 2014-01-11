@@ -2,18 +2,23 @@
 
 #### Weekend 1
 
-1. Take a look at the Portfolio Challenges below to level set your "minimum bar" for the week.
+##### Review and Solidify Learning
 
-2. Consider setting a goal to finish all the challenges marked [core] from week 1.
+1. Review the [Portfolio Challenges below](#portfolio-challenges) to set a level for your "minimum bar" for the week.
+1. Review any unfinished core challenges from the week. Timebox 2-4 hours to get as far as you can to completion with them. If after this time they are still unfinished, reflect on how you want to allocate time to complete them.
 
-3. Read Chapters 1 and 2 of "Practical Object-Oriented Design in Ruby"
-You can access a copy of this on the Books Dropbox–or there is a hard copy on the bookshelf at DBC.  As you are reading chapter 2–Come up with your own object (like the author's bicycle) and try to apply each concept to your Object.
+##### Stretch Forward
 
-> Walk outside for a least 10 minutes. Find something beautiful and marvel that it exists and that you are lucky enough to enjoy it.  Breathe.
+1. Read Chapters 1 and 2 of [Practical Object-Oriented Design in Ruby](https://www.dropbox.com/s/82gx9sf00vmonad/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf)
+You can access a copy of this on the [Books Dropbox](https://www.dropbox.com/sh/cyje5e6cfk708al/USop5LBSQA)–or there is a hard copy on the bookshelf at DBC.  As you are reading chapter 2–Come up with your own object (like the author's bicycle) and try to apply each concept to your Object.
+
+##### Reflect
+
+1. Walk outside for a least 10 minutes. Find something beautiful and marvel that it exists and that you are lucky enough to enjoy it.  Breathe.
 
 #### Portfolio Challenges
 
-Portfolio challenges are intended to help you review and solidify core concepts from each week.  These challenges were designed to draw a clear line in answering the common student question:
+Portfolio challenges are intended to help you review and solidify core concepts from each week.  These challenges are designed to draw a clear line in answering the common student question:
 
 > What is the bare minimum I need to know?
 
@@ -31,11 +36,11 @@ What's your high bar?
 
 #### Review and Reflect
 
-- [Reflect on Learning](https://github.com/sea-lions-2014/review-reflect-on-learning-challenge)
-- [Review, Reflect, and Iterate](https://github.com/sea-lions-2014/review-reflect-and-iterate-challenge)
-- Prep: [Reading Practical Object Oriented Design In Ruby](https://github.com/sea-lions-2014/prep-reading-practical-object-oriented-design-in-ruby-challenge)
-- [Feedback Loops](https://github.com/sea-lions-2014/feedback-loops-challenge)
-- [Apprenticeship Patterns: Exposing Your Ignorance](https://github.com/sea-lions-2014/apprenticeship-patterns-exposing-your-ignorance-challenge)
+- [Reflect on Learning](review.md#reflect-on-learning)
+- [Review, Reflect, and Iterate](review.md#review-reflect-and-iterate)
+- Prep: [Reading Practical Object Oriented Design In Ruby](review.md#prep-reading-practical-object-oriented-design-in-ruby)
+- [Feedback Loops](review.md#feedback-loops)
+- [Apprenticeship Patterns: Exposing Your Ignorance](review.md#apprenticeship-patterns-exposing-your-ignorance)
 
 <!---
 
