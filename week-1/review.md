@@ -1,4 +1,8 @@
+# Reflect On Learning
 
+# Summary
+
+Reflection is a powerful learning tool.  For this challenge you will create journal 
 1. [Reflect on Learning](#reflect-on-learning)
 1. [Review, Reflect, and Iterate](#review-reflect-and-iterate)
 1. Prep: [Reading Practical Object Oriented Design In Ruby](#prep-reading-practical-object-oriented-design-in-ruby)
