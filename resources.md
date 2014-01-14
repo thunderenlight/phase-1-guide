@@ -54,4 +54,12 @@ These resources are also linked from individual challenges.  If you find a resou
 
 - tribes we lead, seth godin [TED talk](http://www.ted.com/talks/seth_godin_on_the_tribes_we_lead.html), [community guide](http://sethgodin.typepad.com/seths_blog/files/TribesQA2.pdf)
 
+## More (needs to be organized)
+
+
+- [Ruby Operators](http://www.tutorialspoint.com/ruby/ruby_operators.htm)
+- [13 Ways of Looking at Ruby Symbols](http://www.randomhacks.net/articles/2007/01/20/13-ways-of-looking-at-a-ruby-symbol#3)
+- [Symbol Table Design and Implementation in Ruby](https://www.ruby-forum.com/topic/3513542)
+- [ruby garbage collection](http://www.rubyinside.com/how-ruby-manages-memory-and-garbage-collection-3006.html)
+
 
