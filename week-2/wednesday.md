@@ -12,13 +12,13 @@
 
 > 12:30 -2:00 Lunch
 
-> 2:00 -3:00 : Lecture 
+> 2:00 -3:00 : Lightning Talks
 
 > 3:00 - Late : Challenges with afternoon pair (one on one with teachers)
 
-- Scraping HN 1
-- Design Drill: Argument-Order Dependency
-- World's Dumbest Browser
+- [Scraping HN 1](https://github.com/sea-lions-2014/scraping-hn-1-building-objects-challenge)
+- [Design Drill: Argument-Order Dependency](https://github.com/sea-lions-2014/design-drill-argument-order-dependency-challenge)
+- [World's Dumbest Browser](https://github.com/sea-lions-2014/world-s-dumbest-browser-challenge)
 
 *Done with core? Help a fellow boot!*
 
@@ -34,13 +34,15 @@
  
 #### Review Others Refactor Yours
 
+[See General Instructions](https://github.com/sea-lions-2014/review-others-refactor-yours-challenge)
+
 - Scraping HN 1
 - World's Dumbest Browser
 
 #### Stretch
 
-- Scraping HN 2
-- The Rational Numbers
+- [Scraping HN 2](https://github.com/sea-lions-2014/scraping-hn-2-saving-to-csv-challenge)
+- [The Rational Numbers](https://github.com/sea-lions-2014/the-rational-numbers-challenge)
 
 ## Links
 
