@@ -28,6 +28,7 @@
 
 ### Phase Tools
 
+* [Lightning Talks](lightning.md)
 * [Learning Competencies](learning-competency.md) 
 * [Working Agreement](working-agreement.md)
 * [How to Submit a Challenge](how-to-submit.md)
