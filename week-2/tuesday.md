@@ -10,8 +10,8 @@
 
 > 10:00 - 11:00 : Challenges with morning pair
 
-- Ruby Drill: ARGV Basics
-- Design Drill: Classical Inheritance
+- [Ruby Drill: ARGV Basics](https://github.com/sea-lions-2014/ruby-drill-argv-basics-challenge)
+- [Design Drill: Classical Inheritance](https://github.com/sea-lions-2014/design-drill-classical-inheritance-challenge)
 
 > 11:00 - 12:30 : Engineering Empathy (11:00 - 12:30) - Sexism
 
@@ -22,9 +22,9 @@
 > 3:00 - Late : Challenges with afternoon pair
 
 
-- Parsing Data 1
-- Cookies and Ovens
-- Hospital Interface
+- [Parsing Data 1](https://github.com/sea-lions-2014/parsing-data-1-csv-in-csv-out-challenge)
+- [Cookies and Ovens](https://github.com/sea-lions-2014/cookies-and-ovens-challenge)
+- [Hospital Interface](https://github.com/sea-lions-2014/hospital-interface-challenge)
 
 *Done with core? Help a fellow boot!*
 
@@ -35,17 +35,18 @@
 #### Redo Solo
 
 - Any drill or challenge that is unclear
-- Cookie and Ovens
-- Parsing Data 1
+- [Cookies and Ovens](https://github.com/sea-lions-2014/cookies-and-ovens-challenge)
+- [Parsing Data 1](https://github.com/sea-lions-2014/parsing-data-1-csv-in-csv-out-challenge)
+
  
 #### Review Others Refactor Yours
 
 [See General Instructions](https://github.com/sea-lions-2014/review-others-refactor-yours-challenge)
 
-- Cookies and Ovens
-- Parsing Data 1
+ - [Cookies and Ovens](https://github.com/sea-lions-2014/cookies-and-ovens-challenge)
+ - [Parsing Data 1](https://github.com/sea-lions-2014/parsing-data-1-csv-in-csv-out-challenge)
 
 #### Stretch
 
-- Parsing Data 2
+- [Parsing Data 2](https://github.com/sea-lions-2014/parsing-data-2-csv-in-anything-out-challenge)
 
