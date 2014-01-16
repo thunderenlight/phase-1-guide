@@ -19,8 +19,9 @@
 
 ## Core
 
-- Ruby Todos 1
-- Review Others, Refactor Yours
+- [Ruby Todos 1](https://github.com/sea-lions-2014/ruby-todos-1-0-core-features-challenge)
+
+- [Review Others, Refactor Yours](https://github.com/sea-lions-2014/review-others-refactor-yours-week-2-challenge)
 
 *Done with core? Help a fellow boot!*
 
@@ -30,17 +31,13 @@
 
 #### Redo Solo
 
-- Ruby Todos 1
-- Any drill or challenge that is unclear
- 
-#### Review Others Refactor Yours
-
-- Ruby Todos 1
+- [Ruby Todos 1](https://github.com/sea-lions-2014/ruby-todos-1-0-core-features-challenge)
+- Any drill or challenge that is unclear 
 
 #### Stretch
 
-- Design Drill: Object Composition
-- Ruby Todos 2
+- [Design Drill: Object Composition](https://github.com/sea-lions-2014/design-drill-object-composition-challenge)
+- [Ruby Todos 2](https://github.com/sea-lions-2014/ruby-todos-2-0-additional-features-challenge)
 
 ## Links
 
