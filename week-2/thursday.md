@@ -10,6 +10,8 @@
 
 > 10:00 - 1:00 : Challenges with morning pair 
 
+- [Ruby Todos 1](https://github.com/sea-lions-2014/ruby-todos-1-0-core-features-challenge)
+
 > 1:10 - 1:50 Yoga
 > 1:50 - 2:30 Lunch
 
@@ -17,11 +19,7 @@
 
 > 3:30 - Late : Challenges with afternoon pair (one on one with teachers)
 
-## Core
-
-- [Ruby Todos 1](https://github.com/sea-lions-2014/ruby-todos-1-0-core-features-challenge)
-
-- [Review Others, Refactor Yours](https://github.com/sea-lions-2014/review-others-refactor-yours-week-2-challenge)
+- [Review Others, Refactor Yours - With TODO!](https://github.com/sea-lions-2014/review-others-refactor-yours-week-2-challenge)
 
 *Done with core? Help a fellow boot!*
 
