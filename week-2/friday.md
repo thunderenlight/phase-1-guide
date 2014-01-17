@@ -23,4 +23,4 @@
 
 ###Stretch
 
-- [Ruby Flashcards 2 MVC Pattern More]()
+- [Ruby Flashcards 2 MVC Pattern More](https://github.com/sea-lions-2014/ruby-flashcards-2-mvc-pattern-more-challenge)
