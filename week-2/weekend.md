@@ -7,9 +7,9 @@
 
 * Complete the following portfolio challenges **solo** to solidify your OO learning:
 
-  - [P5: OO Inheritance](https://github.com/sea-lions-2014/p5-oo-inheritance-challenge)  
-  - [P6: OO Terminology](https://github.com/sea-lions-2014/p6-oo-terminology-challenge)  
-  - [P7: OO and CSV - Bernie's Bistro]() 
+  - [P5: OO Inheritance](https://github.com/sea-lions-2014/p5-oo-inheritance-challenge)
+  - [P6: OO Terminology](https://github.com/sea-lions-2014/p6-oo-terminology-challenge)
+  - [P7: OO and CSV - Bernie's Bistro]()
 
 * Review a classmates Flashcards challenge.  Try to refactor it to be MORE MVC.  Submit a pull request to their branch with your refactor.
 
@@ -36,16 +36,16 @@ Next week is all about data.  To prepare:
 
 ##### Reflect
 
-* Look over the [Jargon](jargon.md) file and submit a pull request for at least one term that is not yet defined, or add a link to a gist for code snippets that illustrate a code term. 
+* Look over the [Jargon](jargon.md) file and submit a pull request for at least one term that is not yet defined, or add a link to a gist for code snippets that illustrate a code term.
 
 
-##### Set you High Bar 
+##### Set you High Bar
 
 **What's your high bar?**
 
 #### Breathe
 
-Walk outside for a least 10 minutes. Find something beautiful and marvel that it exists and that you are lucky enough to enjoy it. 
+Walk outside for a least 10 minutes. Find something beautiful and marvel that it exists and that you are lucky enough to enjoy it.
 
 #####Resources
 

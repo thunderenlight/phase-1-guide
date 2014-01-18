@@ -5,6 +5,8 @@
 ### controller
 ### factory
 ### inheritance
+  Inheritance, or is-a relationships, are a way of modeling objects where a child object inherits the behavior of its parent object.
+### modularization
 ### model
 ### singleton
 ### view
@@ -45,6 +47,7 @@
 ### Interface Segregation
 ### Law of Demeter
 ### Liskov substitution
+  The Liskov substitution principle is that an object which is constructed from [inheritance](#inheritance) or [modularization](#modularization) should be substitutable for it's parent object or the module piece.
 ### open-closed
 ### single responsibility
 ### sprout method
