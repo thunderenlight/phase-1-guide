@@ -17,28 +17,24 @@ Congratulations on lots of hard work and solid (SOLID) learning during Week 2.  
 * Review a classmates Flashcards challenge.  Try to refactor it to be MORE MVC.  Submit a pull request to their branch with your refactor.
 
 * If you want more OO practice, you can complete these stretch challenges (optional)
-  * [Review: Bernies Big Mistake]()
-  * [Review: Bowling Game]()
+  * [Bowling Game Code Kata](http://content.codersdojo.org/code-kata-catalogue/bowling-game/)
 
 ##### Stretch Forward
-
-**LINKS WILL BE UP SOON! **
 
 Next week is all about data.  To prepare:
 
 * Complete the following schema design drills (**Note:** You did some of these in Phase 0 but redo them here to refresh your brain.)
 
-  - [Database Drill: Student Roster]()
-  - [Database Drill: One to Many Schema]()
-  - [Database Drill: One to One Schema]()
-  - [Database Drill: Many to Many Schema]()
-  - [Database Drill: Todo List Schema]()
-  - [Database Drill: Address Book Schema]()
+  - [Database Drill: Student Roster](https://github.com/sea-lions-2014/database-drill-student-roster-challenge)
+  - [Database Drill: One to Many Schema](https://github.com/sea-lions-2014/database-drill-one-to-many-schema-challenge)
+  - [Database Drill: One to One Schema](https://github.com/sea-lions-2014/database-drill-one-to-one-schema-challenge)
+  - [Database Drill: Many to Many Schema](https://github.com/sea-lions-2014/database-drill-many-to-many-schema-challenge)
+  - [Database Drill: Address Book Schema](https://github.com/sea-lions-2014/db-drill-address-book-schema-challenge)
 
 * Complete the following SQLite challenges.  Make sure you have SQLite installed and working on your personal computer as well (ask a coach for help if needed)
 
-  - [Database Drill: Intro to SQLite](http://socrates.devbootcamp.com/challenges/55)
-  - [BONUS: Ruby and Databases - Using the SQLite gem](http://socrates.devbootcamp.com/challenges/443)
+  - [Database Drill: Intro to SQLite](https://github.com/sea-lions-2014/database-drill-intro-to-sqlite-challenge)
+  - [Ruby and Databases - Using the SQLite gem](http://socrates.devbootcamp.com/challenges/443) - Turn in on Socrates.
 
 ##### Reflect
 
