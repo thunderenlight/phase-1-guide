@@ -21,8 +21,6 @@ Congratulations on lots of hard work and solid (SOLID) learning during Week 2.  
 
 ##### Stretch Forward
 
-**LINKS WILL BE UP SOON! **
-
 Next week is all about data.  To prepare:
 
 * Complete the following schema design drills (**Note:** You did some of these in Phase 0 but redo them here to refresh your brain.)
