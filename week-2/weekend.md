@@ -42,16 +42,16 @@ Next week is all about data.  To prepare:
 
 ##### Reflect
 
-* Look over the [Jargon](jargon.md) file and submit a pull request for at least one term that is not yet defined, or add a link to a gist for code snippets that illustrate a code term. 
+* Look over the [Jargon](week-2/jargon.md) file and submit a pull request for at least one term that is not yet defined, or add a link to a gist for code snippets that illustrate a code term.
 
 
-##### Set you High Bar 
+##### Set you High Bar
 
 **What's your high bar?**
 
 #### Breathe
 
-Walk outside for a least 10 minutes. Find something beautiful and marvel that it exists and that you are lucky enough to enjoy it. 
+Walk outside for a least 10 minutes. Find something beautiful and marvel that it exists and that you are lucky enough to enjoy it.
 
 #####Resources
 
