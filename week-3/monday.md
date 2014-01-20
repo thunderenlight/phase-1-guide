@@ -41,16 +41,15 @@ MANDATORY - do at least 1 of below (Quick Drills, Redo Solo, Review/Refactor, or
 
 [See General Instructions](https://github.com/sea-lions-2014/review-others-refactor-yours-challenge)
 
-* [Review Others, Refactor Yours - The Wheels on the Bus]()
-* Poll DB 1: Queries
-* Poll DB 2: Modifying Data 
+* [Poll DB 1: Queries](https://github.com/sea-lions-2014/poll-db-1-queries-challenge)
+* [Poll DB 2: Modifying Data](https://github.com/sea-lions-2014/poll-db-2-modifying-data-challenge)
 
 
 #### Stretch
-* [Design Your Own Database]()
-* [IMDB Database Design]()
-* [Reddit Jr Database Design]()
-* [Forum Database Design]()
+* [Design Your Own Database](https://github.com/sea-lions-2014/design-your-own-database-challenge)
+* [IMDB Database Design](https://github.com/sea-lions-2014/imdb-database-design-challenge)
+* [Reddit Jr Database Design](https://github.com/sea-lions-2014/reddit-jr-database-design-challenge)
+* [Forum Database Design](https://github.com/sea-lions-2014/forum-database-design-challenge)
 
 
 
