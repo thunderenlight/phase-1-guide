@@ -21,7 +21,7 @@
 
 > 3:00 - Late : Challenges with afternoon pair
 
-* [Address Book DB from Schema]()
+* [Address Book DB from Schema](https://github.com/sea-lions-2014/address-book-db-from-schema-challenge)
 
 Done with core? Help a fellow boot!
 
