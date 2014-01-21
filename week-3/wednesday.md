@@ -1,5 +1,7 @@
 ## Week 2
 
+[Pairing Schedule with Teachers](https://docs.google.com/a/devbootcamp.com/spreadsheet/ccc?key=0AozpO5yzg9E6dEdEWVhhME8yeVYzd1V4am9qMTVjX2c&usp=drive_web#gid=0)
+
 ### Wednesday (solo-optional)
 
 > 8:45 - 9:00 : Accountability Check In
