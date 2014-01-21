@@ -11,7 +11,7 @@
 > 10:00 - 11:00 : Challenges with morning pair
 
 * [Student Roster DB from Schema](https://github.com/sea-lions-2014/student-roster-db-from-schema-challenge)
-* [University DB Schema]()
+* [University DB Schema](https://github.com/sea-lions-2014/university-course-database-design-challenge)
 
 > 11:00 - 12:30 : Engineering Empathy (11:00 - 12:30) - The 'F' Word
 
