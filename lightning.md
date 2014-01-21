@@ -24,19 +24,17 @@ OO Design ( see POODR for good examples)
 
 ### Week 3 - Wednesday
 
-Database Design
-
-* Darcey - 
-* Rick - 
-* Eli - 
-* Christina - 
-* Kevin - 
+* Darcey - Recursion
+* Rick - Methods and scope 
+* Eli - SQLite 3 gem tips and tricks
+* Christina - Many to many design 
+* Patrick - Sublime Foo 
 
 ### Week 3 - Thursday
 
 ORM - Active Record
 
 * Elliot - Migrations
-* Patrick - Associations
+* Kevin - Associations
 * Spencer - Validations
 * Andy - Queries 
