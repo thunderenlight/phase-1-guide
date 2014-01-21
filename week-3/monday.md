@@ -33,7 +33,7 @@ MANDATORY - do at least 1 of below (Quick Drills, Redo Solo, Review/Refactor, or
 
 #### Do or Redo Solo
 
-* [Database Drill: SQLite Shell Part 1 or Part 2]()
+
 * [Database Drill: SQL Tutor](https://socrates.devbootcamp.com/sql_tests)  **Note: Complete this challenge on Socrates** 
 * Any drill or challenge that is unclear
 
@@ -50,6 +50,6 @@ MANDATORY - do at least 1 of below (Quick Drills, Redo Solo, Review/Refactor, or
 * [IMDB Database Design](https://github.com/sea-lions-2014/imdb-database-design-challenge)
 * [Reddit Jr Database Design](https://github.com/sea-lions-2014/reddit-jr-database-design-challenge)
 * [Forum Database Design](https://github.com/sea-lions-2014/forum-database-design-challenge)
-
-
+* [Database Drill: SQLite Shell Part 1](https://github.com/sea-lions-2014/database-drill-sqlite-shell-part-1-challenge)
+* [Database Drill: SQLite Shell Part 2](https://github.com/sea-lions-2014/database-drill-sqlite-shell-part-2-challenge)
 
