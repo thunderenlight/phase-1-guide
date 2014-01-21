@@ -1,15 +1,11 @@
-## Design patterns
+1. [Acronyms](#acronyms)
+1. [Design concepts](#design-concepts)
+1. [Design patterns](#design-patterns)
+1. [Miscellaneous OO jargon](#miscellaneous-oo-jargon)
+1. [Practices](#practices)
+1. [Ruby keywords](#ruby-keywords)
+1. [Ways to improve (refactor) code](#ways-to-improve-refactor-code)
 
-### aggregation
-### composition
-### controller
-### factory
-### inheritance
-  Inheritance, or is-a relationships, are a way of modeling objects where a child object inherits the behavior of its parent object.
-### modularization
-### model
-### singleton
-### view
 
 ## Acronyms
 
@@ -32,11 +28,46 @@
 ### procedural
 ### system of objects
 
+## Design patterns
+
+### aggregation
+### composition
+### controller
+### factory
+### inheritance
+  Inheritance, or is-a relationships, are a way of modeling objects where a child object inherits the behavior of its parent object.
+### modularization
+### model
+### singleton
+### view
+
+## Miscellaneous OO jargon
+
+### class method
+### cognitive load
+### error handling
+### exception handling
+### getter
+### god method
+### initialization
+### instance method
+### monkeypatch
+### namespacing
+### setter
+
 ## Practices
 
 ### Agile
 ### Test-Driven Development
 ### Waterfall
+
+## Ruby keywords
+### class
+### Struct
+### private
+### public
+### module
+### Unary operator(::)
 
 ## Ways to improve (refactor) code
 
@@ -52,25 +83,3 @@
 ### single responsibility
 ### sprout method
 ### tell, don't ask
-
-## Ruby keywords
-### class
-### Struct
-### private
-### public
-### module
-
-## Miscellaneous OO jargon
-
-### class method
-### cognitive load
-### error handling
-### exception handling
-### getter
-### god method
-### initialization
-### instance method
-### monkeypatch
-### namespacing
-### setter
-### Unary operator(::)
