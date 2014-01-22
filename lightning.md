@@ -26,7 +26,7 @@ OO Design ( see POODR for good examples)
 
 * Darcey - Recursion
 * Rick - [Methods and Scope](https://github.com/rickarubio/methods_and_scope/blob/master/methods_and_scope.rb)
-* Eli - SQLite 3 gem tips and tricks[SQLite3 Tips and Tricks](lightning/eli_sqlite3_tips.md)
+* Eli - [SQLite3 Tips and Tricks](lightning/eli_sqlite3_tips.md)
 * Christina - Many to many design 
 * Patrick - Sublime Foo 
 
