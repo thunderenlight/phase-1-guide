@@ -24,7 +24,7 @@
 * <b>Select line:</b> Command + L
 * <b>Select word:</b> Command + D
 
-###Finding
+###Finding: 
   * <b>Find:</b> Command + F
   * <b>Go to next Find:</b> Command + G
   * <b>Quick Find All:</b> Command + Control + G
@@ -36,7 +36,7 @@
     * <b>Case Sensitive:</b> Command + Option + C (Affects Regex searches)  
     * <b>Whole word:</b> Command + Option + W  
 
-###Layout
+###Layout: 
   * <b>Column view:</b> Command + Alt + [1,2,3]
   * <b>Row view:</b> Command  + Alt + Shift + [1,2,3]
   * <b>Grid view:</b> Commant + Alt + 5
