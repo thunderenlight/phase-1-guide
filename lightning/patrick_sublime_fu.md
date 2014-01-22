@@ -18,7 +18,8 @@
   * <b>Switch between tabs by order on screen:</b> Command + Shift + <b>\[</b> or <b>\]</b> (depending on direction)
 
 
-
+###Quotes and Brackets:
+To wrap a word (or words) in quotes, parentheses, brackets, etc just select what you want them to wrap around, and type the appropriate character. So, to turn foo into 'foo', select the word foo and type a single quote.
 
 ###Select:
 * <b>Select line:</b> Command + L
