@@ -25,7 +25,7 @@ OO Design ( see POODR for good examples)
 ### Week 3 - Wednesday
 
 * Darcey - Recursion
-* Rick - Methods and scope 
+* Rick - [Methods and Scope](https://github.com/rickarubio/methods_and_scope/blob/master/methods_and_scope.rb)
 * Eli - SQLite 3 gem tips and tricks
 * Christina - Many to many design 
 * Patrick - Sublime Foo 
