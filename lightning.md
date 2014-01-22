@@ -27,7 +27,7 @@ OO Design ( see POODR for good examples)
 * Darcey - Recursion
 * Rick - [Methods and Scope](https://github.com/rickarubio/methods_and_scope/blob/master/methods_and_scope.rb)
 * Eli - [SQLite3 Tips and Tricks](lightning/eli_sqlite3_tips.md)
-* Christina - Many to many design 
+* Christina - [Many to many design](https://github.com/sea-lions-2014/Lightning_Talk_Many_to_Many/blob/christina/many_to_many.md)
 * Patrick - [Sublime Fu](https://github.com/sea-lions-2014/phase-1-guide/blob/master/lightning/patrick_sublime_fu.md) 
 
 ### Week 3 - Thursday
