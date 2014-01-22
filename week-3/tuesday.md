@@ -30,21 +30,20 @@ MANDATORY - do at least *2* of below (Redo Solo, Review/Refactor, or Stretch).
 
 #### Do or Redo Solo
 
-* [Student Roster DB from Schema]()
-* [University Course DB Schema]()
-* [Family Tree Database Design]()
-* [Multi-Author Blog Database Design]()
+* [Student Roster DB from Schema](https://github.com/sea-lions-2014/student-roster-db-from-schema-challenge)
+* [University DB Schema](https://github.com/sea-lions-2014/university-course-database-design-challenge)
 
 #### Review Others Refactor Yours
 
 [See General Instructions](https://github.com/sea-lions-2014/review-others-refactor-yours-challenge)
 
-* [University Course Database Design]()
-* [Student Roster DB from Schema]()
-* [Address Book DB from Schema]()
+* [University DB Schema](https://github.com/sea-lions-2014/university-course-database-design-challenge)
+* [Student Roster DB from Schema](https://github.com/sea-lions-2014/student-roster-db-from-schema-challenge)
+* [Address Book DB from Schema](https://github.com/sea-lions-2014/address-book-db-from-schema-challenge)
 
 #### Stretch
 
-* [Many to Many Schema to Database]()
-* [Congress Database 1]()
-* [Congress Database 2]()
+* [Many to Many Schema to Database](https://github.com/sea-lions-2014/many-to-many-schema-to-database-challenge)
+* [Congress Database 1](https://github.com/sea-lions-2014/congress-database-1-from-csv-to-sqlite-with-ruby-challenge)
+* [Congress Database 2](https://github.com/sea-lions-2014/congress-database-2-scrub-and-analyze-with-ruby-challenge)
+* [Family Tree Database Design](https://github.com/sea-lions-2014/family-tree-database-design-challenge)
