@@ -17,11 +17,11 @@
 
 > 12:30 -2:00 Lunch
 
-> 2:00 -3:00 : [Lightning Talks](lightning.md)
+> 2:00 -3:00 : [Lightning Talks](../lightning.md)
 
 > 3:00 - Late : Challenges with afternoon pair
 
-* [ActiveRecord Student Schema]()
+* [ActiveRecord Student Schema](https://github.com/sea-lions-2014/db-drill-ar-student-schema-challenge)
 * [DB Drill - ActiveRecord Associations]()
 * [DB Drill - AR Symmetric Migrations]()
 
@@ -34,7 +34,7 @@ MANDATORY - do at least 1 of below (Redo Solo, Review/Refactor, or Stretch).
 ####Redo Solo
 * Any drill or challenge that is unclear
 * ActiveRecord Jr. Part 1 / 2
-* [ActiveRecord Student Schema]()
+* [ActiveRecord Student Schema](https://github.com/sea-lions-2014/db-drill-ar-student-schema-challenge)
 
 #### Review Others Refactor Yours
 
@@ -42,7 +42,7 @@ MANDATORY - do at least 1 of below (Redo Solo, Review/Refactor, or Stretch).
 
 * Congress Database 1 or 2
 * Active Record Jr. Part 1 / 2 / 3
-* ActiveRecord Student Schema
+* [ActiveRecord Student Schema](https://github.com/sea-lions-2014/db-drill-ar-student-schema-challenge)
 
 ####Stretch
 
