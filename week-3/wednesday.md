@@ -48,5 +48,5 @@ MANDATORY - do at least 1 of below (Redo Solo, Review/Refactor, or Stretch).
 
 * [Active Record Jr. Part 3](https://github.com/sea-lions-2014/activerecord-jr-3-pragmatism-challenge)
 * [Active Record Jr. Part 4](https://github.com/sea-lions-2014/activerecord-jr-4-metaprogramming-challenge)
-* [Congress Database 3]()
-* [Congress Database 4]()
+* [Congress Database 3](https://github.com/sea-lions-2014/congress-database-3-refactoring-congresspeople-refining-object-orientation-challenge)
+* [Congress Database 4](https://github.com/sea-lions-2014/congress-database-4-deeper-analysis-with-ruby-challenge)
