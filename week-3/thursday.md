@@ -15,15 +15,15 @@
 
 Done with core? Help a fellow boot!
 
-> 1:10 - 1:50 Yoga
-> 1:50 - 2:30 Lunch
+> 12:40 - 1:10 Yoga
+> 1:10 - 2:00 Lunch
 
-> 2:30 -3:30 : Lecture
+> 2:00 -3:00 : Lecture and Lightning Talks
 
-> 3:30 - Late : Challenges with afternoon pair ([one on one with teachers by Appointment ](https://docs.google.com/a/devbootcamp.com/spreadsheet/ccc?key=0AozpO5yzg9E6dEdEWVhhME8yeVYzd1V4am9qMTVjX2c&usp=drive_web#gid=0))
+> 3:00 - Late : Challenges with afternoon pair ([one on one with teachers by Appointment ](https://docs.google.com/a/devbootcamp.com/spreadsheet/ccc?key=0AozpO5yzg9E6dEdEWVhhME8yeVYzd1V4am9qMTVjX2c&usp=drive_web#gid=0))
 
-* [Database Drill: Advanced ActiveRecord Migrations]()
-* [Active Record : Design Your Own]()
+<!-- * [Database Drill: Advanced ActiveRecord Migrations]() -->
+* [Active Record : Design Your Own](https://github.com/sea-lions-2014/activerecord-design-your-own-challenge)
 
 ###Reflect and Stretch
 MANDATORY - do at least 1 of below (Redo Solo, Review/Refactor, or Stretch).
