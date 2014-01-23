@@ -1,4 +1,4 @@
-!(diagram)[http://imgur.com/icckJlZ.png]
+![diagram](http://imgur.com/icckJlZ.png)
 
 Validation is a function of ActiveRecord that ensures that certain aspects of an objects' state are validated before
 entering the database.
