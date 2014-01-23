@@ -35,6 +35,6 @@ OO Design ( see POODR for good examples)
 ORM - Active Record
 
 * Elliot - Migrations
-* Kevin - Associations
+* Kevin - [Associations](http://www.google.com)
 * Spencer - Validations
 * Andy - Queries 
