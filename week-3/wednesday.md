@@ -22,8 +22,8 @@
 > 3:00 - Late : Challenges with afternoon pair
 
 * [ActiveRecord Student Schema](https://github.com/sea-lions-2014/db-drill-ar-student-schema-challenge)
-* [DB Drill - ActiveRecord Associations]()
-* [DB Drill - AR Symmetric Migrations]()
+* [DB Drill - ActiveRecord Associations](https://github.com/sea-lions-2014/database-drill-activerecord-associations-challenge)
+* [DB Drill - AR Symmetric Migrations](https://github.com/sea-lions-2014/db-drill-ar-symmetric-migrations-challenge)
 
 Done with core? Help a fellow boot!
 
