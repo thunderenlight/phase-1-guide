@@ -9,7 +9,7 @@ There are two primary functions:
 1. Ensure that nothing malicious is being input into the database.
 2. Ensure that data is being properly maintained. Aka prevent "dirtying up" the database.
 
-Syntax within your model: | validates :column_name, validation_helper: args |
+Syntax within your model: | validates :column_name, validation_helper: arguments |
 
 Methods that trigger validations:
 
