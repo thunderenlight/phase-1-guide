@@ -11,7 +11,7 @@
 > 10:00 - 1:00 : Challenges with morning pair 
 
 * [Active Record Congress DB 1](https://github.com/sea-lions-2014/activerecord-congress-database-1-modeling-congresspeople-challenge)
-* [Active Record Congress DB 2]()
+* [Active Record Congress DB 2](https://github.com/sea-lions-2014/activerecord-congress-database-2-tweet-archive-challenge)
 
 Done with core? Help a fellow boot!
 
@@ -20,7 +20,7 @@ Done with core? Help a fellow boot!
 
 > 2:30 -3:30 : Lecture
 
-> 3:30 - Late : Challenges with afternoon pair ([one on one with teachers by Appointment](https://docs.google.com/a/devbootcamp.com/spreadsheet/ccc?key=0AozpO5yzg9E6dEdEWVhhME8yeVYzd1V4am9qMTVjX2c&usp=drive_web#gid=0))
+> 3:30 - Late : Challenges with afternoon pair ([one on one with teachers by Appointment ](https://docs.google.com/a/devbootcamp.com/spreadsheet/ccc?key=0AozpO5yzg9E6dEdEWVhhME8yeVYzd1V4am9qMTVjX2c&usp=drive_web#gid=0))
 
 * [Database Drill: Advanced ActiveRecord Migrations]()
 * [Active Record : Design Your Own]()
