@@ -35,6 +35,6 @@ OO Design ( see POODR for good examples)
 ORM - Active Record
 
 * Elliot - Migrations
-* Kevin - [Associations](http://www.google.com)
+* Kevin - [Associations](http://guides.rubyonrails.org/association_basics.html)
 * Spencer - Validations
 * Andy - Queries 
