@@ -17,6 +17,8 @@
 * [Active Record Todo's 1](https://github.com/sea-lions-2014/activerecord-todos-part-1-challenge)
 * [Active Record Todo's 2](https://github.com/sea-lions-2014/activerecord-todos-part-2-challenge)
 
+> 12:30 - 2:00 Lunch
+
 > 2:00 -3:00 : Break out (optional)
 
 > 3:00 - Late : Group Project
