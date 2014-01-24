@@ -36,8 +36,8 @@ The life-cycle of a migration:
  	- rake db:migrate
  	- roll back to an earlier version
 
-[rails guide]http://edgeguides.rubyonrails.org/migrations.html#migration-overview
+[rails guide](http://edgeguides.rubyonrails.org/migrations.html#migration-overview)
 
-[helpful link 1]http://archive.railsforum.com/viewtopic.php?id=1011
+[helpful link 1](http://archive.railsforum.com/viewtopic.php?id=1011)
 
-[helpful link 2]http://www.packtpub.com/article/Working-with-Rails-ActiveRecord-Migrations-Models-Scaffolding-and-Database-Completion
+[helpful link 2](http://www.packtpub.com/article/Working-with-Rails-ActiveRecord-Migrations-Models-Scaffolding-and-Database-Completion)
