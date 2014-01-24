@@ -35,7 +35,6 @@ The life-cycle of a migration:
  - Running
  	- rake db:migrate
  	- roll back to an earlier version
-	- 
 
 [rails guide]http://edgeguides.rubyonrails.org/migrations.html#migration-overview
 
