@@ -18,7 +18,7 @@
 
 - [Scraping HN 1](https://github.com/sea-lions-2014/scraping-hn-1-building-objects-challenge)
 - [Design Drill: Argument-Order Dependency](https://github.com/sea-lions-2014/design-drill-argument-order-dependency-challenge)
-- [World's Dumbest Browser](https://github.com/sea-lions-2014/world-s-dumbest-browser-challenge)
+- [World's Simplest Browser](https://github.com/sea-lions-2014/world-s-simplest-browser-challenge)
 
 *Done with core? Help a fellow boot!*
 
@@ -30,14 +30,14 @@
 
 - Any drill or challenge that is unclear
 - Scraping HN 1
-- World's Dumbest Browser
+- World's Simplest Browser
  
 #### Review Others Refactor Yours
 
 [See General Instructions](https://github.com/sea-lions-2014/review-others-refactor-yours-challenge)
 
 - Scraping HN 1
-- World's Dumbest Browser
+- World's Simplest Browser
 
 #### Stretch
 
