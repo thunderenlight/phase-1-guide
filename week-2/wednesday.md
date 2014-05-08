@@ -7,7 +7,7 @@ With your pair, complete the following challenges.
 
 - [Scraping HN 1](https://github.com/grasshoppers-2014/scraping-hn-1-building-objects-challenge)
 - [Design Drill: Argument-Order Dependency](https://github.com/grasshoppers-2014/design-drill-argument-order-dependency-challenge)
-- [World's Dumbest Browser](https://github.com/grasshoppers-2014/world-s-dumbest-browser-challenge)
+- [World's Dumbest Browser](https://github.com/grasshoppers-2014/world-s-simplest-browser-challenge)
 
 ##### Reflect and Stretch
 Once you've completed your cores for the day, continue working on the following challenges.
@@ -15,7 +15,7 @@ Once you've completed your cores for the day, continue working on the following 
 - **Solo:** redo one of today's cores on your own.
 
 - **Review Others, Refactor Yours:**
-  - [World's Dumbest Browser](https://github.com/grasshoppers-2014/world-s-dumbest-browser-challenge)
+  - [World's Dumbest Browser](https://github.com/grasshoppers-2014/world-s-simplest-browser-challenge)
 
 - **Stretch Challenges:**
   - [Scraping HN 2](https://github.com/grasshoppers-2014/scraping-hn-2-saving-to-csv-challenge)

@@ -15,7 +15,6 @@ algorithm-drill-factorial-challenge
 algorithm-drill-linear-search-challenge
 algorithm-drill-prime-factors-challenge
 algorithm-drill-shuffle-challenge
-algorithms-phase-one-assessment-challenge
 anagrams-1-detecting-anagrams-challenge
 anagrams-2-generating-anagrams-challenge
 battleship-challenge
@@ -55,11 +54,8 @@ design-drill-public-vs-private-interfaces-challenge
 design-drill-translate-to-pseudocode-challenge
 design-your-own-database-challenge
 dictionary-sort-challenge
-e-commerce-application-phase-one-assessment-challenge
-errors-and-debugging-phase-1-assessment-challenge
 family-tree-database-design-challenge
 forum-database-design-challenge
-getting-sqly-phase-one-assessment-challenge
 hospital-interface-challenge
 imdb-database-design-challenge
 many-to-many-schema-to-database-challenge
@@ -73,7 +69,6 @@ p7-oo-and-csv-bernie-s-bistro-challenge
 parsing-data-1-csv-in-csv-out-challenge
 parsing-data-2-csv-in-anything-out-challenge
 perfecting-pairing-challenge
-phase-one-assessment
 pig-latin-challenge
 poll-database-design-challenge
 poll-db-1-queries-challenge
@@ -105,7 +100,6 @@ ruby-flashcards-2-mvc-pattern-more-challenge
 ruby-racer-1-outrageous-fortune-challenge
 ruby-todos-1-0-core-features-challenge
 ruby-todos-2-0-additional-features-challenge
-schema-design-phase-one-assessment-challenge
 scraping-hn-1-building-objects-challenge
 scraping-hn-2-saving-to-csv-challenge
 simple-benchmarking-with-blocks-challenge
@@ -117,4 +111,4 @@ the-rational-numbers-challenge
 two-truths-and-a-lie
 university-course-database-design-challenge
 words-in-a-file-challenge
-world-s-dumbest-browser-challenge
+world-s-simplest-browser-challenge
