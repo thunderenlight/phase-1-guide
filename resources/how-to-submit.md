@@ -6,18 +6,51 @@ We will be using github to submit and review all challenges. There are three sta
 1. [Challenge Review and Refactor Workflow](#challenge-review-and-refactor-workflow)
 1. [Group Project Workflow](#group-project-workflow)
 
+## Daily usage
+
+When you begin using a machine, you must use the `weare` command to log yourself and your pair in. If you're solo, use `iam`. You need to supply your github usernames to the utility. After running `weare`, your prompt should change
+
+```bash
+$ weare mattbaker devdame #pairing work
+$ iam mattbaker #solo work
+```
+
+When you are done with the machine you need to log out.
+
+```bash
+$ weare out #or...
+$ iam out
+```
+
+When you're working on a challenge, you need to use the `pair-branch` utility to checkout a branch with the right name:
+
+```bash
+(master)$ pair-branch
+(pair-mattbaker,devdame) $ #now you're on a correctly named branch.
+```
+
+**Note**: Please use the `pair-branch` utility for solo work too.It helps us keep track of submissions.
+
 ## Challenge Submission Workflow
 
-1. Clone the repository into your local repository
+0. Use the `weare` command with your github user namesto log yourself and your pair in. If you're solo, use `iam`:
+   ```
+   > weare mygithublogin mypairsgithublogin #pair
+   > iam mygithublogin #solo
+   ```
+
+   You should only need to do this once per day.
+
+1. Create a folder for you and your pair on the Desktop and clone the repository:
 
   ```shell
   git clone REPOSITORY_PATH
   ```
 
-2. Create a branch named YOUR_NAME (if solo) or PAIR_NAME_1-AND-PAIR_NAME_2 (if working in a pair) and checkout this branch. **Note:** please use first name and last initial or full names to avoid confusion.
+2. Use `pair-branch` to checkout a branch with the proper naming convention.
 
   ```shell
-  git checkout -b StrandM-AND-AnneS
+  pair-branch # This is an alias for `git checkout -b pair-githubuser1,githubuser2`
   ```
 
 3. Complete your challenge. Commit early and often with meaningful commit messages.
@@ -30,7 +63,7 @@ We will be using github to submit and review all challenges. There are three sta
 4. When you have a completed challenge, push your branch to github
 
   ```shell
-  git push origin StrandM-AND-AnneS
+  git push -u origin pair-githubuser1,githubuser2
   ```
 
 5.  Go to github and submit a pull request to master from your branch.  **DO NOT MERGE THE REQUEST INTO MASTER.**
@@ -56,13 +89,13 @@ When completing a challenge review, you will need to get the existing code from 
 2. You now need to checkout the branch you are reviewing (which will probably be a fellow boots name). This branch is available to checkout even if you don't see it in the list of branches (you may need to look on github to see the name).
 
   ```shell
-  git checkout StrandM-AND-AnneS
+  git checkout pair-githubuser1,githubuser2
   ```
 
-3. From this branch, create a new branch for your review and refactor.
+3. From this branch, create a new branch for your review and refactor. Use this naming format:
 
   ```shell
-  git checkout -b BrickT-refactor
+  git checkout -b refactor-githubuser1,githubuser2
   ```
 
 4. Complete your challenge. Commit early and often with meaningful commit messages.
@@ -75,14 +108,14 @@ When completing a challenge review, you will need to get the existing code from 
 5. When you have a completed challenge, push your branch to github
 
   ```shell
-  git push origin BrickT-refactor
+  git push origin refactor-githubuser1,githubuser2
   ```
 
-6. Go to github and submit a pull request to the branch you are reviewing (`StrandM-AND-AnneS`) from your branch (`StrandM-AND-AnneS-refactor`).  **DO NOT MERGE THE REQUEST.**
+6. Go to github and submit a pull request to the branch you are reviewing (`pair-githubuser1,githubuser2`) from your branch (`refactor-githubuser1,githubuser2`).  **DO NOT MERGE THE REQUEST.**
 
 ## Group Project Workflow
 
-When working on a group project, you will be starting with a brand new repository which you will create as a private repository in the grasshoppers-2014 organization.
+When working on a group project, you will be starting with a brand new repository which you will create as a private repository in the $DBC_COHORT organization.
 
 1. [Create a new repository on github](https://help.github.com/articles/create-a-repo).
 

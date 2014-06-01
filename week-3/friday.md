@@ -4,8 +4,8 @@
 
 ##### Core Challenges
 With your group, complete the following challenges.
-* [Active Record Todo's 1](https://github.com/grasshoppers-2014/activerecord-todos-part-1-challenge)
-* [Active Record Todo's 2](https://github.com/grasshoppers-2014/activerecord-todos-part-2-challenge)
+* [Active Record Todo's 1](https://github.com/$DBC_COHORT/activerecord-todos-part-1-challenge)
+* [Active Record Todo's 2](https://github.com/$DBC_COHORT/activerecord-todos-part-2-challenge)
 
 
 

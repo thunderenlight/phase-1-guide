@@ -1,17 +1,20 @@
 # Week 1:  Monday
 
+
 ### Challenges
+
+##### Before you begin
+Spend 10-15 minutes reading and discussing the [three agreements](../resources/three-agreements.md) with your pairing partner. Talk about which of the three agreements you anticipate will be most difficult for you in the weeks to come and why.
 
 ##### Core Challenges
 With your pair, complete the following challenges.
 
-- [Deaf Grandma](https://github.com/grasshoppers-2014/deaf-grandma-challenge)
-- [Dictionary Sort](https://github.com/grasshoppers-2014/dictionary-sort-challenge)
-- [Debugging Drill: Use a REPL](https://github.com/grasshoppers-2014/debugging-drill-use-a-repl-challenge)
-- [Debugging Drill: Read the Error](https://github.com/grasshoppers-2014/debugging-drill-read-the-error-challenge)
-- [Design Drill: Code Style](https://github.com/grasshoppers-2014/design-drill-code-style-challenge)
-- [Design Drill: Method Chaining](https://github.com/grasshoppers-2014/design-drill-method-chaining-challenge)
-- [Roman Numerals](https://github.com/grasshoppers-2014/roman-numerals-challenge)
+- [Deaf Grandma](https://github.com/$DBC_COHORT/deaf-grandma-challenge)
+- [Debugging Drill: Use a REPL](https://github.com/$DBC_COHORT/debugging-drill-use-a-repl-challenge)
+- [Debugging Drill: Read the Error](https://github.com/$DBC_COHORT/debugging-drill-read-the-error-challenge)
+- [Design Drill: Code Style](https://github.com/$DBC_COHORT/design-drill-code-style-challenge)
+- [Design Drill: Method Chaining](https://github.com/$DBC_COHORT/design-drill-method-chaining-challenge)
+- [Roman Numerals](https://github.com/$DBC_COHORT/roman-numerals-challenge)
 
 ##### Reflect and Stretch
 Once you've completed your cores for the day, continue working on the following challenges.
@@ -19,11 +22,11 @@ Once you've completed your cores for the day, continue working on the following 
 - **Solo:** redo one of today's cores on your own.
 
 - **Review Others, Refactor Yours:**
-  - [Deaf Grandma and Roman Numerals](https://github.com/grasshoppers-2014/review-others-refactor-yours-deaf-grandma-roman-numerals-challenge)
+  - [Deaf Grandma and Roman Numerals](https://github.com/$DBC_COHORT/review-others-refactor-yours-deaf-grandma-roman-numerals-challenge)
 
 - **Stretch Challenges:**
-  - [99 Bottles](https://github.com/grasshoppers-2014/99-bottles-challenge)
-  - [Battleship](https://github.com/grasshoppers-2014/battleship-challenge)
+  - [99 Bottles](https://github.com/$DBC_COHORT/99-bottles-challenge)
+  - [Battleship](https://github.com/$DBC_COHORT/battleship-challenge)
 
 
 ### Lecture Topics
