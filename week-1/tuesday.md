@@ -10,7 +10,7 @@ With your pair, complete the following challenges.
  - [Design Drill: Translate to Pseudocode](https://github.com/$DBC_COHORT/design-drill-translate-to-pseudocode-challenge)
  - [Benchmarking with Blocks](https://github.com/$DBC_COHORT/simple-benchmarking-with-blocks-challenge)
  - [Ruby Drill: Enumerable Methods](https://github.com/$DBC_COHORT/ruby-drill-enumerable-methods-challenge)
- - [Implement Enumerable](https://github.com/$DBC_COHORT/implement-enumerable-challenge)
+ - [Implement Enumerable](https://github.com/$DBC_COHORT/implement-enumerable-challenge-experiment)
  - [Ruby Drill: Destructive Methods](https://github.com/$DBC_COHORT/ruby-drill-destructive-methods-challenge)
  - [Algorithm Drill: Shuffle](https://github.com/$DBC_COHORT/algorithm-drill-shuffle-challenge)
 
@@ -21,7 +21,7 @@ Once you've completed your cores for the day, continue working on the following 
 
 - **Review Others, Refactor Yours:**
   - [Pig Latin](https://github.com/$DBC_COHORT/pig-latin-challenge)
-  - [Implement Enumerable](https://github.com/$DBC_COHORT/implement-enumerable-challenge)
+  - [Implement Enumerable](https://github.com/$DBC_COHORT/implement-enumerable-challenge-experiment)
   - [Algorithm Drill: Shuffle](https://github.com/$DBC_COHORT/algorithm-drill-shuffle-challenge)
 
 - **Stretch Challenges:**
