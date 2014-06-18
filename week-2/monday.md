@@ -5,11 +5,11 @@
 ##### Core Challenges
 With your pair, complete the following challenges.
 
-- [Ruby Drill: Accessor Methods](https://github.com/$DBC_COHORT/ruby-drill-accessor-methods-challenge)
-- [Design Drill: Public vs. Private Interfaces](https://github.com/$DBC_COHORT/design-drill-public-vs-private-interfaces-challenge)
-- [Ruby Drill: The self Keyword](https://github.com/$DBC_COHORT/ruby-drill-the-self-keyword-challenge)
-- [Ruby Drill: Exploring Scope](https://github.com/$DBC_COHORT/ruby-drill-exploring-scope-challenge)
-- [Orange Tree 1: Just Oranges](https://github.com/$DBC_COHORT/orange-tree-1-just-oranges-challenge)
+- [Ruby Drill: Accessor Methods](https://github.com/bobolinks-2014/ruby-drill-accessor-methods-challenge)
+- [Design Drill: Public vs. Private Interfaces](https://github.com/bobolinks-2014/design-drill-public-vs-private-interfaces-challenge)
+- [Ruby Drill: The self Keyword](https://github.com/bobolinks-2014/ruby-drill-the-self-keyword-challenge)
+- [Ruby Drill: Exploring Scope](https://github.com/bobolinks-2014/ruby-drill-exploring-scope-challenge)
+- [Orange Tree 1: Just Oranges](https://github.com/bobolinks-2014/orange-tree-1-just-oranges-challenge)
 
 
 ##### Reflect and Stretch
@@ -18,11 +18,11 @@ Once you've completed your cores for the day, continue working on the following 
 - **Solo:** redo one of today's cores on your own.
 
 - **Review Others, Refactor Yours:**
-  - [Orange Tree 1: Just Oranges](https://github.com/$DBC_COHORT/orange-tree-1-just-oranges-challenge)
+  - [Orange Tree 1: Just Oranges](https://github.com/bobolinks-2014/orange-tree-1-just-oranges-challenge)
   - Any challenge from Week 1 you feel you still have more to learn from.
 
 - **Stretch Challenges:**
-  - [Orange Tree 2: Groves](https://github.com/$DBC_COHORT/orange-tree-2-groves-challenge)
+  - [Orange Tree 2: Groves](https://github.com/bobolinks-2014/orange-tree-2-groves-challenge)
   - Practicing POODR: read POODR throughout the week. For each chapter, apply the concept to your personal "OBJECT" in code.
 
 

@@ -4,11 +4,11 @@
 
 ##### Core Challenges
 With your pair, complete the following challenges.
-- [Ruby Drill: ARGV Basics](https://github.com/$DBC_COHORT/ruby-drill-argv-basics-challenge)
-- [Design Drill: Classical Inheritance](https://github.com/$DBC_COHORT/design-drill-classical-inheritance-challenge)
-- [Parsing Data 1](https://github.com/$DBC_COHORT/parsing-data-1-csv-in-csv-out-challenge)
-- [Cookies and Ovens](https://github.com/$DBC_COHORT/cookies-and-ovens-challenge)
-- [Hospital Interface](https://github.com/$DBC_COHORT/hospital-interface-challenge)
+- [Ruby Drill: ARGV Basics](https://github.com/bobolinks-2014/ruby-drill-argv-basics-challenge)
+- [Design Drill: Classical Inheritance](https://github.com/bobolinks-2014/design-drill-classical-inheritance-challenge)
+- [Parsing Data 1](https://github.com/bobolinks-2014/parsing-data-1-csv-in-csv-out-challenge)
+- [Cookies and Ovens](https://github.com/bobolinks-2014/cookies-and-ovens-challenge)
+- [Hospital Interface](https://github.com/bobolinks-2014/hospital-interface-challenge)
 
 ##### Reflect and Stretch
 Once you've completed your cores for the day, continue working on the following challenges.
@@ -16,12 +16,12 @@ Once you've completed your cores for the day, continue working on the following 
 - **Solo:** redo one of today's cores on your own.
 
 - **Review Others, Refactor Yours:**
-  - [Cookies and Ovens](https://github.com/$DBC_COHORT/cookies-and-ovens-challenge)
-  - [Parsing Data 1](https://github.com/$DBC_COHORT/parsing-data-1-csv-in-csv-out-challenge)
+  - [Cookies and Ovens](https://github.com/bobolinks-2014/cookies-and-ovens-challenge)
+  - [Parsing Data 1](https://github.com/bobolinks-2014/parsing-data-1-csv-in-csv-out-challenge)
 
 
 - **Stretch Challenges:**
-  - [Parsing Data 2](https://github.com/$DBC_COHORT/parsing-data-2-csv-in-anything-out-challenge)
+  - [Parsing Data 2](https://github.com/bobolinks-2014/parsing-data-2-csv-in-anything-out-challenge)
 
 
 

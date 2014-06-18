@@ -4,11 +4,11 @@
 
 ##### Core Challenges
 Either with a pair or on your own, complete the following challenges.
-- [Review: Abstract Data Structures](https://github.com/$DBC_COHORT/review-abstract-data-structures-challenge)
-- [Review: Calculating Subsets with Recursion](https://github.com/$DBC_COHORT/review-calculating-subsets-with-recursion-challenge)
-- [Review: Reflect and Iterate](https://github.com/$DBC_COHORT/review-reflect-and-iterate-challenge)
-- [Review: Reflect on Learning](https://github.com/$DBC_COHORT/review-reflect-on-learning-challenge)
-- [Review: Revisit Roman Numerals](https://github.com/$DBC_COHORT/review-revisit-roman-numeral-challenge)
+- [Review: Abstract Data Structures](https://github.com/bobolinks-2014/review-abstract-data-structures-challenge)
+- [Review: Calculating Subsets with Recursion](https://github.com/bobolinks-2014/review-calculating-subsets-with-recursion-challenge)
+- [Review: Reflect and Iterate](https://github.com/bobolinks-2014/review-reflect-and-iterate-challenge)
+- [Review: Reflect on Learning](https://github.com/bobolinks-2014/review-reflect-on-learning-challenge)
+- [Review: Revisit Roman Numerals](https://github.com/bobolinks-2014/review-revisit-roman-numeral-challenge)
 
 ### Required Reading
 - Read Chapters 2 and 3 of [Practical Object Oriented Programming in Ruby](http://www.beginsmarter.com/pdf/Practical_OO_Design_Ruby.pdf).  There is a hardcopy available on the DBC bookshelf.  An electronic copy is available in the [DBC Books Dropbox](https://www.dropbox.com/sh/cyje5e6cfk708al/USop5LBSQA).  As you read, come up with your own real-world object--like the author's bicycle--and try to apply each concept to your object.  You should finish reading the book throughout Week 2.

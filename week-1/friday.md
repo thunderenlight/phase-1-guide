@@ -4,8 +4,8 @@
 
 ##### Core Challenges
 With your group, complete the following challenges.
-- [Sudoku, part one](https://github.com/$DBC_COHORT/sudoku-1-modeling-logic-challenge)
-- [Sudoku, part two](https://github.com/$DBC_COHORT/sudoku-2-guessing-challenge)
+- [Sudoku, part one](https://github.com/bobolinks-2014/sudoku-1-modeling-logic-challenge)
+- [Sudoku, part two](https://github.com/bobolinks-2014/sudoku-2-guessing-challenge)
 
 
 ### Lecture Topics

@@ -4,11 +4,11 @@
 
 ##### Core Challenges
 With your pair, complete the following challenges.
-- [Data Drill: Nested Arrays](https://github.com/$DBC_COHORT/data-drill-nested-arrays-challenge)
-- [Data Drill: Nested Arrays 2](https://github.com/$DBC_COHORT/nested-arrays-2-ruby-for-conversion-and-seeding-challenge)
-- [Ruby Racer](https://github.com/$DBC_COHORT/ruby-racer-1-outrageous-fortune-challenge)
-- [Boggle 1: Basic Board Generation](https://github.com/$DBC_COHORT/boggle-1-basic-board-generation-challenge)
-- [Boggle 2: Word Checker](https://github.com/$DBC_COHORT/boggle-2-word-checker-challenge)
+- [Data Drill: Nested Arrays](https://github.com/bobolinks-2014/data-drill-nested-arrays-challenge)
+- [Data Drill: Nested Arrays 2](https://github.com/bobolinks-2014/nested-arrays-2-ruby-for-conversion-and-seeding-challenge)
+- [Ruby Racer](https://github.com/bobolinks-2014/ruby-racer-1-outrageous-fortune-challenge)
+- [Boggle 1: Basic Board Generation](https://github.com/bobolinks-2014/boggle-1-basic-board-generation-challenge)
+- [Boggle 2: Word Checker](https://github.com/bobolinks-2014/boggle-2-word-checker-challenge)
 
 ##### Reflect and Stretch
 Once you've completed your cores for the day, continue working on the following challenges.
@@ -16,16 +16,16 @@ Once you've completed your cores for the day, continue working on the following 
 - **Solo:** redo one of today's cores on your own.
 
 - **Review Others, Refactor Yours:**
-  - [Data Drill: Nested Arrays 2](https://github.com/$DBC_COHORT/nested-arrays-2-ruby-for-conversion-and-seeding-challenge)
-  - [Ruby Racer](https://github.com/$DBC_COHORT/ruby-racer-1-outrageous-fortune-challenge)
-  - [Boggle 1: Basic Board Generation](https://github.com/$DBC_COHORT/boggle-1-basic-board-generation-challenge)
+  - [Data Drill: Nested Arrays 2](https://github.com/bobolinks-2014/nested-arrays-2-ruby-for-conversion-and-seeding-challenge)
+  - [Ruby Racer](https://github.com/bobolinks-2014/ruby-racer-1-outrageous-fortune-challenge)
+  - [Boggle 1: Basic Board Generation](https://github.com/bobolinks-2014/boggle-1-basic-board-generation-challenge)
 
 
 - **Stretch Challenges:**
-  - [Review: Abstract Data Structures](https://github.com/$DBC_COHORT/review-abstract-data-structures-challenge)
-  - [Data Drill: Stack and Queue](https://github.com/$DBC_COHORT/data-drill-stack-and-queue-challenge)
-  - [Data Drill: Linked List](https://github.com/$DBC_COHORT/data-drill-linked-list-challenge)
-  - [Numbers in Words](https://github.com/$DBC_COHORT/numbers-in-words-challenge)
+  - [Review: Abstract Data Structures](https://github.com/bobolinks-2014/review-abstract-data-structures-challenge)
+  - [Data Drill: Stack and Queue](https://github.com/bobolinks-2014/data-drill-stack-and-queue-challenge)
+  - [Data Drill: Linked List](https://github.com/bobolinks-2014/data-drill-linked-list-challenge)
+  - [Numbers in Words](https://github.com/bobolinks-2014/numbers-in-words-challenge)
 
 ### Lecture Topics
 * [Debugging](../resources/lectures.md#debugging)
