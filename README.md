@@ -1,9 +1,5 @@
 # Phase 1 Guide
 
-### Before you Begin
-
-Your success at DBC is strongly linked to your understanding of the "Three Agreements". Please read the about [the three agreements](resources/three-agreements.md), we'll be discussing these frequently in the weeks to come.
-
 ### Week 1:
 **Daily Guides:**
 
