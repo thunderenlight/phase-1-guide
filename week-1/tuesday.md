@@ -1,38 +1,26 @@
 # Week 1:  Tuesday
 
 ### Challenges
-
 ##### Core Challenges
-With your pair, complete the following challenges.
+- [Pig Latin](https://github.com/bobolinks-2014/pig-latin-challenge)
+- [Ruby Drill: Regular Expressions](https://github.com/bobolinks-2014/ruby-drill-regular-expressions-challenge)
+- [Design Drill: Translate to Pseudocode](https://github.com/bobolinks-2014/design-drill-translate-to-pseudocode-challenge)
+- [Benchmarking with Blocks](https://github.com/bobolinks-2014/simple-benchmarking-with-blocks-challenge)
+- [Ruby Drill: Enumerable Methods](https://github.com/bobolinks-2014/ruby-drill-enumerable-methods-challenge)
+- [Implement Enumerable](https://github.com/bobolinks-2014/implement-enumerable-challenge-experiment)
+- [Ruby Drill: Destructive Methods](https://github.com/bobolinks-2014/ruby-drill-destructive-methods-challenge)
+- [Algorithm Drill: Shuffle](https://github.com/bobolinks-2014/algorithm-drill-shuffle-challenge)
 
- - [Pig Latin](https://github.com/bobolinks-2014/pig-latin-challenge)
- - [Ruby Drill: Regular Expressions](https://github.com/bobolinks-2014/ruby-drill-regular-expressions-challenge)
- - [Design Drill: Translate to Pseudocode](https://github.com/bobolinks-2014/design-drill-translate-to-pseudocode-challenge)
- - [Benchmarking with Blocks](https://github.com/bobolinks-2014/simple-benchmarking-with-blocks-challenge)
- - [Ruby Drill: Enumerable Methods](https://github.com/bobolinks-2014/ruby-drill-enumerable-methods-challenge)
- - [Implement Enumerable](https://github.com/bobolinks-2014/implement-enumerable-challenge-experiment)
- - [Ruby Drill: Destructive Methods](https://github.com/bobolinks-2014/ruby-drill-destructive-methods-challenge)
- - [Algorithm Drill: Shuffle](https://github.com/bobolinks-2014/algorithm-drill-shuffle-challenge)
-
-##### Reflect and Stretch
-Once you've completed your cores for the day, continue working on the following challenges.
-
-- **Solo:** redo one of today's cores on your own.
-
-- **Review Others, Refactor Yours:**
-  - [Pig Latin](https://github.com/bobolinks-2014/pig-latin-challenge)
-  - [Implement Enumerable](https://github.com/bobolinks-2014/implement-enumerable-challenge-experiment)
-  - [Algorithm Drill: Shuffle](https://github.com/bobolinks-2014/algorithm-drill-shuffle-challenge)
-
-- **Stretch Challenges:**
-  - [Words in a File](https://github.com/bobolinks-2014/words-in-a-file-challenge)
-  - [Combating Smells: Extract Method](https://github.com/bobolinks-2014/combating-smells-extract-method-challenge)
+##### Stretch Challenges
+- [Words in a File](https://github.com/bobolinks-2014/words-in-a-file-challenge)
+- [Combating Smells: Extract Method](https://github.com/bobolinks-2014/combating-smells-extract-method-challenge)
 
 
 ### Lecture Topics
 - [Writing Readable Code](../resources/lectures.md#writing-readable-code)
 - [Regular Expressions](../resources/lectures.md#regular-expressions)
 - [Enacting Enumerables](../resources/lectures.md#enacting-enumerables)
+
 
 ### Additonal Resources
 - [Code smells](https://gist.github.com/alycit/8cecbd9d69e5d0f0be22)
