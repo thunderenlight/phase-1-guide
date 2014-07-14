@@ -19,8 +19,7 @@
 ### Lecture Topics
 <!-- Moved to written resource - [Writing Readable Code](../resources/lectures.md#writing-readable-code) -->
 - [Regular Expressions](../resources/lectures.md#regular-expressions)
-- [Enacting Enumerables](../resources/lectures.md#enacting-enumerables)
-
+- [RSpec Intro](../resources/lectures.md#rspec-basics)
 
 ### Additonal Resources
 - [Code smells](https://gist.github.com/alycit/8cecbd9d69e5d0f0be22)
