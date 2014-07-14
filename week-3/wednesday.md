@@ -17,7 +17,7 @@
 
 ### Lecture Topics
 - [Introduction to ActiveRecord](../resources/lectures.md#introduction-to-activerecord)
-- [SQL Injection](../resources/lectures.md#sql-injection)
+- [Basic Web Security](../resources/lectures.md#basic-security)
 
 
 ### Additonal Resources

@@ -12,8 +12,7 @@
 
 
 ### Lecture Topics
-- [Tree Structures: DOM and Nokogiri](../resources/lectures.md#tree-structures-dom-and-nokogiri)
-- [Single Responsibility](../resources/lectures.md#single-responsibility)
+- [Reading Open Source Software: Nokogiri](../resources/lectures.md#reading-oss)
 
 
 ### Additonal Resources

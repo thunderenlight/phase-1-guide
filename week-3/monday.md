@@ -19,7 +19,6 @@
 
 ### Lecture Topics
 - [Schema Design](../resources/lectures.md#schema-design)
-- [Databases](../resources/lectures.md#databases)
 
 
 ### Additonal Resources

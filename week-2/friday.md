@@ -10,7 +10,7 @@
 
 ### Lecture Topics
 - [Model View Controller](../resources/lectures.md#model-view-controller)
-- [Managing Dependencies](../resources/lectures.md#managing-dependencies)
+- [Classes: Single Responsibility and Dependencies](../resources/lectures.md#classes-single-responsibility-and-managing-dependencies)
 
 
 ### Additonal Resources

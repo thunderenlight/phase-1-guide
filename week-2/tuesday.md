@@ -13,7 +13,7 @@
 
 
 ### Lecture Topics
-- [Inheritance vs. Composition](../resources/lectures.md#inheritance-vs-composition)
+- [Inheritance, Mixins, and Composition](../resources/lectures.md#inheritance-mixins-composition)
 
 
 ### Additonal Resources

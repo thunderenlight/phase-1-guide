@@ -22,7 +22,7 @@
 
 ### Lecture Topics
 - [Iteration and Recursion](../resources/lectures.md#iteration-and-recursion)
-- [Variables and Pointers](../resources/lectures.md#variables-and-pointers)
+- [Ruby Scope](../resources/lectures.md#ruby-scope)
 
 
 ### Additonal Resources

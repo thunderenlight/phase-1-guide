@@ -44,7 +44,7 @@ Below are descriptions of the lectures delivered during Phase 1.
 
   In the past, teachers have guided students through a [series of debugging steps](https://gist.github.com/openspectrum/7c100a04e3c2289ec38a#a-guide-to-the-steps-of-debugging).
 
-* **<a name="variables-and-pointers"></a>Object Heap & Nested Data Structures ():**
+* **<a name="object-heap-and-nested-data-structures"></a>Object Heap & Nested Data Structures ():**
 
   Introduce students to the object heap and the concept of pointers.  The main take away is that the value of a variable is not an object itself, rather a pointer to an object. Students should realize that this can cause issues when assigning the value of one variable to another (specifically, that this action does not create a copy of the data).
 
@@ -55,6 +55,10 @@ Below are descriptions of the lectures delivered during Phase 1.
 * **<a name="sudoku-workshop"></a>Sudoku Workshop ():**
 
   To prepare the sudoku group challenge, students are led through a  workshop.  Present students with [printouts of a sudoku board](./sudoku_board.pdf).  Explain to students the rules of sudoku.  Then, in their groups, students spend 15 to 20 minutes writing pseudocode for solving a sudoku puzzle.  Each group presents their pseudocode to the cohort.
+
+* **<a name="single-responsibility-methods"></a>Single Responsibility Methods ():**
+
+  Decompose a complex method (e.g., squared primes method from Week 1: Monday).  Extract the various bits of logic into small, reusable methods.
 
 
 ## Week 2: Object Oriented Programming
@@ -72,21 +76,15 @@ Below are descriptions of the lectures delivered during Phase 1.
 
 #### Tuesday
 
-* **<a name="oo-design"></a>Object Oriented Design ():**
+* **<a name="inheritance-mixins-composition"></a>Inheritance, Mixins and Composition():**
 
-  Discuss good object oriented design principles. This includes encapsulation, loose coupling, tell don't ask, law of demeter, etc.
+ Touch briefly on inheritance, the inheritance tree, and how method lookup works.  Discuss when inheritance can break down as a code-sharing tactic, demonstrate mixins as a solution (e.g., a class composed of many mixins). Discuss composition. Present an example with inheritance modeling a "has_a" relationship. For example, a class "Car" that inherits from "ThingWithWheels"
 
 #### Wednesday
 
-* **<a name="reading-oss"></a>Reading OSS: Nokogiri ():**
+* **<a name="reading-oss"></a>Reading Open Source Software: Nokogiri ():**
 
   Use an intro to the Nokogiri gem to demonstrate how we read documentation and explore an API (even if it isn't well documented). Remind students of basic tree structures (students should be familiar with the DOM after P0). Review the structure of the DOM and parent-child relationships.  Review basic CSS selectors.  Demonstrate working with Nokogiri.
-
-* **<a name="inheritance-mixins-composition"></a>Inheritance, Mixins and Composition():**
-
- * Touch briefly on inheritance, the inheritance tree, and how method look ups work
- * Discuss when inheritance can break down as a code-sharing tactic, demonstrate _mixins_ as a solution (class composed of many mixins)
- * Discuss composition. Present an example with inheritance modeling a "has_a" relationship. For example, a class "Car" that inherits from "ThingWithWheels"
 
 #### Thursday
 
@@ -98,9 +96,9 @@ Below are descriptions of the lectures delivered during Phase 1.
 
   Introduce students to the model-view-controller design pattern.  Reference separation of concerns to highlight the different responsibilities of each MCV component:  models for data and related behaviors, the view for the user interface, and the controller for directing traffic.  Showcase an MVC-designed example (e.g., Bernie's Bistro).
 
-* **<a name=""></a>Recitation:**
+* **<a name="classes-single-responsibility-and-managing-dependencies"></a>Classes: Single Responsibility and Dependencies():**
 
-  Break out into small groups to address questions and live code.
+    Discuss single responsibility in terms of classes.  Reiterate the benefits of single responsibility.  Each class or module should serve one purpose and everything that it does (e.g., methods) should serve that purpose.  Present students with a design decision to make and alternative solutions.  In groups, students should discuss the impact that the solution would have on the changeability and reuse of the classes involved.  Following the information presented in Practical Object Oriented Design in Ruby, discuss with students the drawbacks to writing classes that are too tightly coupled.  In addition, present techniques for limiting dependencies.
 
 
 ## Week 3: Databases
@@ -111,9 +109,6 @@ Below are descriptions of the lectures delivered during Phase 1.
 
   Connect the notion of modeling state and behavior in Ruby to modeling in a database schema.  Draw parallels between tables and classes, records and object instances, and fields and attributes.  Discuss primary and foreign keys.  As an exercise, design a schema for a website based on the information visible on the site (e.g., flickr).
 
-* **<a name=""></a>Recitations:**
-
-  Break out into small groups to address questions and live code.
 
 #### Tuesday
 

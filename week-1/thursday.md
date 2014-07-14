@@ -17,7 +17,7 @@
 
 ### Lecture Topics
 - [Debugging](../resources/lectures.md#debugging)
-- [Nested Data Structures](../resources/lectures.md#nested-data-structures)
+- [Object Heap & Nested Data Structures](../resources/lectures.md#object-heap-and-nested-data-structures)
 
 
 ### Additonal Resources
