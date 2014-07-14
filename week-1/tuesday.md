@@ -17,7 +17,7 @@
 
 
 ### Lecture Topics
-- [Writing Readable Code](../resources/lectures.md#writing-readable-code)
+<!-- Moved to written resource - [Writing Readable Code](../resources/lectures.md#writing-readable-code) -->
 - [Regular Expressions](../resources/lectures.md#regular-expressions)
 - [Enacting Enumerables](../resources/lectures.md#enacting-enumerables)
 

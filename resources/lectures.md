@@ -16,9 +16,11 @@ Below are descriptions of the lectures delivered during Phase 1.
   During their first day at DBC, students are given an introduction to DBC and an overview of how to operate at DBC.  The majority of this information is delivered by Dave and Alex.  It is the responsibility of the instructors to walk students through the use of the cohort's GitHub organization.  At a minimum, students should be walked through the phase guide and shown how to submit a challenge.
 
 #### Tuesday
+<! -- Turn writing readable code into a well-written resource
 * **<a name="writing-readable-code"></a>Writing Readable Code ():**
 
   In a short lecture (15 min.), highlight writing code that is readable for humans.  Key points are [Ruby style conventions](https://github.com/styleguide/ruby), descriptive naming of variables and methods, and writing focused methods.  In the past, instructors have [refactored a roman numerals solution](https://gist.github.com/openspectrum/1fc609849ee747e333a1).
+-->
 
 * **<a name="rspec-basics"></a>Rspec Basics ():**
 
