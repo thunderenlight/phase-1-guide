@@ -15,7 +15,7 @@
 
 **Week 1:**
 
-1.  Darrell Jones, Robert Schwartz, Dakota Cousineau, Michael E Daugherty, Joey Chamberlin
+1.  Darrell Jones, Robert Schwartz, Michael E Daugherty, Joey Chamberlin
 2.  Jeff Keslin, Sebastian Caso, David Nanry, Samuel Dominic Kirn Clements, Stephanie Chou
 3.  Casey Ryan, Ryan Spencer, Edgar Garza, Jennie Chamberlin
 4.  Sebastian Radloff, Lovinder Pnag, Grace Yim, Dev Deol
