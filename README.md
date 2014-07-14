@@ -15,11 +15,12 @@
 
 **Week 1:**
 
-1. names ...
-2. names ...
-3. names ...
-4. names ...
-5. names ...
+1.  Darrell Jones, Robert Schwartz, Dakota Cousineau, Michael E Daugherty, Joey Chamberlin
+2.  Jeff Keslin, Sebastian Caso, David Nanry, Samuel Dominic Kirn Clements, Stephanie Chou
+3.  Casey Ryan, Ryan Spencer, Edgar Garza, Jennie Chamberlin
+4.  Sebastian Radloff, Lovinder Pnag, Grace Yim, Dev Deol
+5.  Steve Pikelny, James Walker, Clayton Jordan, Michael Kirlin
+6.  Joey Sabani, Duke Greene, Ravi Patel, Neel Shah
 
 <!--
 **Week 2:**
