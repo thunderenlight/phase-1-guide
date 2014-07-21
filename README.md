@@ -13,6 +13,7 @@
 
 ### Weekly Groups
 
+<!--
 **Week 1:**
 
 1.  Darrell Jones, Robert Schwartz, Michael E Daugherty, Joey Chamberlin
@@ -21,16 +22,18 @@
 4.  Sebastian Radloff, Lovinder Pnag, Grace Yim, Dev Deol
 5.  Steve Pikelny, James Walker, Clayton Jordan, Michael Kirlin
 6.  Joey Sabani, Duke Greene, Ravi Patel, Neel Shah
+-->
 
-<!--
 **Week 2:**
 
-1.
-2.
-3.
-4.
-5.
+1.  Michael E Daugherty, Edgar Garza, Lovinder Pnag, David Nanry, Stephanie Chou
+2.  Jennie Chamberlin, Dev Deol, Joey Chamberlin, Jeff Keslin
+3.  Duke Greene, Grace Yim, Clayton Jordan, Samuel Dominic Kirn Clements
+4.  Darrell Jones, Steve Pikelny, Joey Sabani, Casey Ryan
+5.  James Walker, Robert Schwartz, Neel Shah, Ryan Spencer
+6.  Michael Kirlin, Sebastian Radloff, Ravi Patel, Sebastian Caso
 
+<!--
 **Week 3:**
 
 1.
