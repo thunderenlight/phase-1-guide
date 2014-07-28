@@ -37,12 +37,12 @@
 
 **Week 3:**
 
-1. Lovinder Pnag,Duke Greene,Robert Schwartz,Steve Pikelny,Sebastian Caso
-2. Sebastian Radloff,Edgar Garza,Joey Chamberlin,Samuel Dominic Kirn Clements
-3. Ravi Patel,Michael E Daugherty,James Walker,Jennie Chamberlin
-4. Darrell Jones,Michael Kirlin,Stephanie Chou,Neel Shah
-5. Clayton Jordan,Dev Deol,Casey Ryan,David Nanry
-6. Grace Yim,Joey Sabani,Ryan Spencer,Jeff Keslin
+1. Lovinder Pnag, Duke Greene, Robert Schwartz, Steve Pikelny, Sebastian Caso
+2. Sebastian Radloff, Edgar Garza, Joey Chamberlin, Samuel Dominic Kirn Clements
+3. Ravi Patel, Michael E Daugherty, James Walker, Jennie Chamberlin
+4. Darrell Jones, Michael Kirlin, Stephanie Chou, Neel Shah
+5. Clayton Jordan, Dev Deol, Casey Ryan, David Nanry
+6. Grace Yim, Joey Sabani, Ryan Spencer, Jeff Keslin
 
 ### Additional Resources
 * [The Three Agreements](resources/three-agreements.md)
