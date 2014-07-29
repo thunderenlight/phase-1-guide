@@ -16,10 +16,13 @@
 - [Combating Smells: Extract Method](https://github.com/bobolinks-2014/combating-smells-extract-method-challenge)
 
 
+### Prep for Tomorrow
+- [Writing Readable Code](../readings/writing-readable-code/README.md)
+
+
 ### Lecture Topics
-<!-- Moved to written resource - [Writing Readable Code](../resources/lectures.md#writing-readable-code) -->
-- [Regular Expressions](../resources/lectures.md#regular-expressions)
 - [RSpec Intro](../resources/lectures.md#rspec-basics)
+
 
 ### Additonal Resources
 - [Code smells](https://gist.github.com/alycit/8cecbd9d69e5d0f0be22)

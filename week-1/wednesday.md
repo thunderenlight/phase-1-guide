@@ -20,9 +20,12 @@
 - [Calculating Subsets With Recursion](https://github.com/bobolinks-2014/review-calculating-subsets-with-recursion-challenge)
 
 
+### Prep for Tomorrow
+- [Debuggging](../readings/debugging/README.md)
+
+
 ### Lecture Topics
 - [Iteration and Recursion](../resources/lectures.md#iteration-and-recursion)
-- [Ruby Scope](../resources/lectures.md#ruby-scope)
 
 
 ### Additonal Resources

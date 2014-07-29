@@ -10,6 +10,9 @@ Either with a pair or on your own, complete the following challenges.
 - [Review: Reflect on Learning](https://github.com/bobolinks-2014/review-reflect-on-learning-challenge)
 - [Review: Revisit Roman Numerals](https://github.com/bobolinks-2014/review-revisit-roman-numeral-challenge)
 
+### Prep for Tomorrow
+- [Ruby Scope](../readings/ruby-scope/README.md)
+
 ### Required Reading
 - Read Chapters 2 and 3 of [Practical Object Oriented Programming in Ruby](http://www.beginsmarter.com/pdf/Practical_OO_Design_Ruby.pdf).  There is a hardcopy available on the DBC bookshelf.  An electronic copy is available in the [DBC Books Dropbox](https://www.dropbox.com/s/jp1qjx2qhb1wqm8/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf).  As you read, come up with your own real-world object--like the author's bicycle--and try to apply each concept to your object.  You should finish reading the book throughout Week 2.
 - Read the Apprenticeship Pattern on [exposing your ignorance](http://ofps.oreilly.com/titles/9780596518387/emptying_the_cup.html#expose_your_ignorance).  It's really hard for smart, hard-working, passionate people to admit when they don't get something. Our natural tendency is to guard our ignorance so that everyone thinks we're competent.  Effective developers expose their ignorance. Period.

@@ -6,7 +6,7 @@
 
 
 ### Lecture Topics
-- [Sudoku Workshop](../resources/lectures.md#sudoku-workshop)
+- [Sudoku Workshop & Group Dynamics](../resources/lectures.md#sudoku-workshop)
 
 
 ### Additonal Resources

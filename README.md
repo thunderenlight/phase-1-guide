@@ -13,43 +13,40 @@
 
 ### Weekly Groups
 
-<!--
 **Week 1:**
 
-1.  Darrell Jones, Robert Schwartz, Michael E Daugherty, Joey Chamberlin
-2.  Jeff Keslin, Sebastian Caso, David Nanry, Samuel Dominic Kirn Clements, Stephanie Chou
-3.  Casey Ryan, Ryan Spencer, Edgar Garza, Jennie Chamberlin
-4.  Sebastian Radloff, Lovinder Pnag, Grace Yim, Dev Deol
-5.  Steve Pikelny, James Walker, Clayton Jordan, Michael Kirlin
-6.  Joey Sabani, Duke Greene, Ravi Patel, Neel Shah
--->
+1.
+2.
+3.
+4.
+
 
 <!--
 **Week 2:**
 
-1.  Michael E Daugherty, Edgar Garza, Lovinder Pnag, David Nanry, Stephanie Chou
-2.  Jennie Chamberlin, Dev Deol, Joey Chamberlin, Jeff Keslin
-3.  Duke Greene, Grace Yim, Clayton Jordan, Samuel Dominic Kirn Clements
-4.  Darrell Jones, Steve Pikelny, Joey Sabani, Casey Ryan
-5.  James Walker, Robert Schwartz, Neel Shah, Ryan Spencer
-6.  Michael Kirlin, Sebastian Radloff, Ravi Patel, Sebastian Caso
+1.
+2.
+3.
+4.
+
 -->
 
+<!--
 **Week 3:**
 
-1. Lovinder Pnag, Duke Greene, Robert Schwartz, Steve Pikelny, Sebastian Caso
-2. Sebastian Radloff, Edgar Garza, Joey Chamberlin, Samuel Dominic Kirn Clements
-3. Ravi Patel, Michael E Daugherty, James Walker, Jennie Chamberlin
-4. Darrell Jones, Michael Kirlin, Stephanie Chou, Neel Shah
-5. Clayton Jordan, Dev Deol, Casey Ryan, David Nanry
-6. Grace Yim, Joey Sabani, Ryan Spencer, Jeff Keslin
+1.
+2.
+3.
+4.
+
+-->
+
 
 ### Additional Resources
 * [The Three Agreements](resources/three-agreements.md)
 * [Counseling Session Signup](https://docs.google.com/a/devbootcamp.com/spreadsheet/ccc?key=0AkUBwMuwpfpvdFctWEpQNEdUank0dndENVhWMHhWbmc#gid=0)
 * [Daily Schedules](resources/daily_schedules.md)
 * [How to Submit a Challenge](resources/how-to-submit.md)
-* [RSpec Basics](resources/rspec)
 * [Learning Competencies](resources/competencies.md)
 * [Lecture Topics](resources/lectures.md)
 * [Mentoring Signup](http://mentoring.devbootcamp.com/)

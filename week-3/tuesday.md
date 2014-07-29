@@ -14,8 +14,7 @@
 
 
 ### Lecture Topics
-- [Object-relational Mapping](../resources/lectures.md#object-relational-mapping)
-
+- no lectures schedules
 
 ### Additonal Resources
 - [Executing SQL using Ruby example](https://gist.github.com/alycit/340e49a09146231abca5)

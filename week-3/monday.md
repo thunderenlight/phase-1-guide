@@ -17,9 +17,12 @@
 - [Database Drill: SQLite Shell Part 2](https://github.com/bobolinks-2014/database-drill-sqlite-shell-part-2-challenge)
 
 
-### Lecture Topics
-- [Schema Design](../resources/lectures.md#schema-design)
+### Prep for Tomorrow
+- [Object-relational Mapping](../readings/object-relational-mapping/README.md)
 
+
+### Lecture Topics
+- [Schema Design Workshop](../resources/lectures.md#schema-design-workshop)
 
 ### Additonal Resources
 - [Talk on schema design](http://shereef.wistia.com/medias/fd684c61cb)

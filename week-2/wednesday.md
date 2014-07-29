@@ -12,7 +12,7 @@
 
 
 ### Lecture Topics
-- [Reading Open Source Software: Nokogiri](../resources/lectures.md#reading-oss)
+- no lectures scheduled
 
 
 ### Additonal Resources

@@ -12,6 +12,10 @@
 - [Parsing Data 2](https://github.com/bobolinks-2014/parsing-data-2-csv-in-anything-out-challenge)
 
 
+### Prep for Tomorrow
+- [Reading Open Source Software: Nokogiri](../readings/reading-oss/README.md)
+
+
 ### Lecture Topics
 - [Inheritance, Mixins, and Composition](../resources/lectures.md#inheritance-mixins-composition)
 

@@ -8,8 +8,11 @@
 - [Ruby Flashcards 2 MVC Pattern More](https://github.com/bobolinks-2014/ruby-flashcards-2-mvc-pattern-more-challenge)
 
 
+### Prep for Tomorrow
+- [Schema Design](../readings/schema-design/README.md)
+
+
 ### Lecture Topics
-- [Model View Controller](../resources/lectures.md#model-view-controller)
 - [Classes: Single Responsibility and Dependencies](../resources/lectures.md#classes-single-responsibility-and-managing-dependencies)
 
 

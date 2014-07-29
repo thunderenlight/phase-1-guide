@@ -13,6 +13,10 @@
 - [99 Bottles](https://github.com/bobolinks-2014/99-bottles-challenge)
 - [Battleship](https://github.com/bobolinks-2014/battleship-challenge)
 
+### Prep for Tomorrow
+- [RSpec Basics](../readings/rspec/README.md
+- [Regular Expressions](../readings/regular-expressions/README.md)
+
 
 ### Lecture Topics
 - [Intro to GithHub-based Challenge System](../resources/lectures.md#github-based-challenge-system)

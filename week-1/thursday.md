@@ -15,8 +15,11 @@
 - [Numbers in Words](https://github.com/bobolinks-2014/numbers-in-words-challenge)
 
 
+### Prep for Tomorrow
+- [Single Responsibility Methods](../reading/single-responsibility-methods/README.md)
+
+
 ### Lecture Topics
-- [Debugging](../resources/lectures.md#debugging)
 - [Object Heap & Nested Data Structures](../resources/lectures.md#object-heap-and-nested-data-structures)
 
 

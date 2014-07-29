@@ -14,8 +14,7 @@
 
 
 ### Lecture Topics
-- [Sudoku Review](../resources/lectures.md#sudoku-review)
-- [Introduction to OOP](../resources/lectures.md#introduction-to-oop)
+- [Sudoku Recap & Introduction to OOP](../resources/lectures.md#introduction-to-oop)
 
 
 ### Additonal Resources
