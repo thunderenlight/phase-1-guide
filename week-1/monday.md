@@ -2,19 +2,19 @@
 
 ### Challenges
 ##### Core Challenges
-- [Deaf Grandma](https://github.com/bobolinks-2014/deaf-grandma-challenge)
-- [Debugging Drill: Use a REPL](https://github.com/bobolinks-2014/debugging-drill-use-a-repl-challenge)
-- [Debugging Drill: Read the Error](https://github.com/bobolinks-2014/debugging-drill-read-the-error-challenge)
-- [Design Drill: Code Style](https://github.com/bobolinks-2014/design-drill-code-style-challenge)
-- [Design Drill: Method Chaining](https://github.com/bobolinks-2014/design-drill-method-chaining-challenge)
-- [Roman Numerals](https://github.com/bobolinks-2014/roman-numerals-challenge)
+- [Deaf Grandma](https://github.com/mantises-2014/deaf-grandma-challenge)
+- [Debugging Drill: Use a REPL](https://github.com/mantises-2014/debugging-drill-use-a-repl-challenge)
+- [Debugging Drill: Read the Error](https://github.com/mantises-2014/debugging-drill-read-the-error-challenge)
+- [Design Drill: Code Style](https://github.com/mantises-2014/design-drill-code-style-challenge)
+- [Design Drill: Method Chaining](https://github.com/mantises-2014/design-drill-method-chaining-challenge)
+- [Roman Numerals](https://github.com/mantises-2014/roman-numerals-challenge)
 
 ##### Stretch Challenges
-- [99 Bottles](https://github.com/bobolinks-2014/99-bottles-challenge)
-- [Battleship](https://github.com/bobolinks-2014/battleship-challenge)
+- [99 Bottles](https://github.com/mantises-2014/99-bottles-challenge)
+- [Battleship](https://github.com/mantises-2014/battleship-challenge)
 
 ### Prep for Tomorrow
-- [RSpec Basics](../readings/rspec/README.md
+- [RSpec Basics](../readings/rspec/README.md)
 - [Regular Expressions](../readings/regular-expressions/README.md)
 
 

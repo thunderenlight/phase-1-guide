@@ -2,10 +2,10 @@
 
 ### Challenges
 ##### Core Challenges
-- [Ruby Flashcards 1 Single Deck](https://github.com/bobolinks-2014/ruby-flashcards-1-single-deck-challenge)
+- [Ruby Flashcards 1 Single Deck](https://github.com/mantises-2014/ruby-flashcards-1-single-deck-challenge)
 
 ##### Stretch Challenges
-- [Ruby Flashcards 2 MVC Pattern More](https://github.com/bobolinks-2014/ruby-flashcards-2-mvc-pattern-more-challenge)
+- [Ruby Flashcards 2 MVC Pattern More](https://github.com/mantises-2014/ruby-flashcards-2-mvc-pattern-more-challenge)
 
 
 ### Prep for Tomorrow

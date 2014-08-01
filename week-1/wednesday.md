@@ -2,22 +2,22 @@
 
 ### Challenges
 ##### Core Challenges
-- [Algorithm Drill: Factorial](https://github.com/bobolinks-2014/algorithm-drill-factorial-challenge)
-- [The Fibonacci Sequence](https://github.com/bobolinks-2014/the-fibonacci-sequence-challenge)
-- [Recursion vs. Iteration: Benchmark it!](https://github.com/bobolinks-2014/recursion-vs-iteration-benchmarking-it-challenge)
-- [Algorithm Drill: Prime Factors](https://github.com/bobolinks-2014/algorithm-drill-prime-factors-challenge)
-- [Anagrams 1: Detecting Anagrams](https://github.com/bobolinks-2014/anagrams-1-detecting-anagrams-challenge)
-- [Anagrams 2: Generating Anagrams](https://github.com/bobolinks-2014/anagrams-2-generating-anagrams-challenge)
-- [Algorithm Drill: Linear Search](https://github.com/bobolinks-2014/algorithm-drill-linear-search-challenge)
-- [Algorithm Drill: Binary Search](https://github.com/bobolinks-2014/algorithm-drill-binary-search-challenge)
+- [Algorithm Drill: Factorial](https://github.com/mantises-2014/algorithm-drill-factorial-challenge)
+- [The Fibonacci Sequence](https://github.com/mantises-2014/the-fibonacci-sequence-challenge)
+- [Recursion vs. Iteration: Benchmark it!](https://github.com/mantises-2014/recursion-vs-iteration-benchmarking-it-challenge)
+- [Algorithm Drill: Prime Factors](https://github.com/mantises-2014/algorithm-drill-prime-factors-challenge)
+- [Anagrams 1: Detecting Anagrams](https://github.com/mantises-2014/anagrams-1-detecting-anagrams-challenge)
+- [Anagrams 2: Generating Anagrams](https://github.com/mantises-2014/anagrams-2-generating-anagrams-challenge)
+- [Algorithm Drill: Linear Search](https://github.com/mantises-2014/algorithm-drill-linear-search-challenge)
+- [Algorithm Drill: Binary Search](https://github.com/mantises-2014/algorithm-drill-binary-search-challenge)
 
 ##### Stretch Challenges
-- [Advanced Calculator](https://github.com/bobolinks-2014/advanced-calculator-challenge)
-- [Ruby Meets Samuel Beckett](https://github.com/bobolinks-2014/quad-ruby-meets-samuel-beckett-challenge)
-- [Linear vs. Binary Search](https://github.com/bobolinks-2014/binary-vs-linear-searching-challenge)
-- [Prime Factors: Sieve of Eratosthenes](https://github.com/bobolinks-2014/prime-factors-sieve-of-eratosthenes-challenge)
-- [Ruby Drill: Control Flow in Loops](https://github.com/bobolinks-2014/ruby-drill-control-flow-in-loops-challenge)
-- [Calculating Subsets With Recursion](https://github.com/bobolinks-2014/review-calculating-subsets-with-recursion-challenge)
+- [Advanced Calculator](https://github.com/mantises-2014/advanced-calculator-challenge)
+- [Ruby Meets Samuel Beckett](https://github.com/mantises-2014/quad-ruby-meets-samuel-beckett-challenge)
+- [Linear vs. Binary Search](https://github.com/mantises-2014/binary-vs-linear-searching-challenge)
+- [Prime Factors: Sieve of Eratosthenes](https://github.com/mantises-2014/prime-factors-sieve-of-eratosthenes-challenge)
+- [Ruby Drill: Control Flow in Loops](https://github.com/mantises-2014/ruby-drill-control-flow-in-loops-challenge)
+- [Calculating Subsets With Recursion](https://github.com/mantises-2014/review-calculating-subsets-with-recursion-challenge)
 
 
 ### Prep for Tomorrow

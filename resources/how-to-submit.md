@@ -115,7 +115,7 @@ When completing a challenge review, you will need to get the existing code from 
 
 ## Group Project Workflow
 
-When working on a group project, you will be starting with a brand new repository which you will create as a private repository in the bobolinks-2014 organization.
+When working on a group project, you will be starting with a brand new repository which you will create as a private repository in the mantises-2014 organization.
 
 1. [Create a new repository on github](https://help.github.com/articles/create-a-repo).
 

@@ -2,7 +2,7 @@
 
 ### Challenges
 ##### Core Challenges
-- [Sudoku](https://github.com/bobolinks-2014/sudoku-1-modeling-logic-challenge)
+- [Sudoku](https://github.com/mantises-2014/sudoku-1-modeling-logic-challenge)
 
 
 ### Lecture Topics

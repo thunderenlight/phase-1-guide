@@ -2,18 +2,18 @@
 
 ### Challenges
 ##### Core Challenges
-- [Pig Latin](https://github.com/bobolinks-2014/pig-latin-challenge)
-- [Ruby Drill: Regular Expressions](https://github.com/bobolinks-2014/ruby-drill-regular-expressions-challenge)
-- [Design Drill: Translate to Pseudocode](https://github.com/bobolinks-2014/design-drill-translate-to-pseudocode-challenge)
-- [Benchmarking with Blocks](https://github.com/bobolinks-2014/simple-benchmarking-with-blocks-challenge)
-- [Ruby Drill: Enumerable Methods](https://github.com/bobolinks-2014/ruby-drill-enumerable-methods-challenge)
-- [Implement Enumerable](https://github.com/bobolinks-2014/implement-enumerable-challenge-experiment)
-- [Ruby Drill: Destructive Methods](https://github.com/bobolinks-2014/ruby-drill-destructive-methods-challenge)
-- [Algorithm Drill: Shuffle](https://github.com/bobolinks-2014/algorithm-drill-shuffle-challenge)
+- [Pig Latin](https://github.com/mantises-2014/pig-latin-challenge)
+- [Ruby Drill: Regular Expressions](https://github.com/mantises-2014/ruby-drill-regular-expressions-challenge)
+- [Design Drill: Translate to Pseudocode](https://github.com/mantises-2014/design-drill-translate-to-pseudocode-challenge)
+- [Benchmarking with Blocks](https://github.com/mantises-2014/simple-benchmarking-with-blocks-challenge)
+- [Ruby Drill: Enumerable Methods](https://github.com/mantises-2014/ruby-drill-enumerable-methods-challenge)
+- [Implement Enumerable](https://github.com/mantises-2014/implement-enumerable-challenge-experiment)
+- [Ruby Drill: Destructive Methods](https://github.com/mantises-2014/ruby-drill-destructive-methods-challenge)
+- [Algorithm Drill: Shuffle](https://github.com/mantises-2014/algorithm-drill-shuffle-challenge)
 
 ##### Stretch Challenges
-- [Words in a File](https://github.com/bobolinks-2014/words-in-a-file-challenge)
-- [Combating Smells: Extract Method](https://github.com/bobolinks-2014/combating-smells-extract-method-challenge)
+- [Words in a File](https://github.com/mantises-2014/words-in-a-file-challenge)
+- [Combating Smells: Extract Method](https://github.com/mantises-2014/combating-smells-extract-method-challenge)
 
 
 ### Prep for Tomorrow

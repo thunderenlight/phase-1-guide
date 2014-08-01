@@ -2,13 +2,13 @@
 
 ### Challenges
 ##### Core Challenges
-- [Scraping HN 1](https://github.com/bobolinks-2014/scraping-hn-1-building-objects-challenge)
-- [Design Drill: Argument-Order Dependency](https://github.com/bobolinks-2014/design-drill-argument-order-dependency-challenge)
-- [World's Dumbest Browser](https://github.com/bobolinks-2014/world-s-simplest-browser-challenge)
+- [Scraping HN 1](https://github.com/mantises-2014/scraping-hn-1-building-objects-challenge)
+- [Design Drill: Argument-Order Dependency](https://github.com/mantises-2014/design-drill-argument-order-dependency-challenge)
+- [World's Dumbest Browser](https://github.com/mantises-2014/world-s-simplest-browser-challenge)
 
 ##### Stretch Challenges
-- [Scraping HN 2](https://github.com/bobolinks-2014/scraping-hn-2-saving-to-csv-challenge)
-- [The Rational Numbers](https://github.com/bobolinks-2014/the-rational-numbers-challenge)
+- [Scraping HN 2](https://github.com/mantises-2014/scraping-hn-2-saving-to-csv-challenge)
+- [The Rational Numbers](https://github.com/mantises-2014/the-rational-numbers-challenge)
 
 
 ### Lecture Topics

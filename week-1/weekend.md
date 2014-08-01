@@ -4,11 +4,11 @@
 
 ##### Core Challenges
 Either with a pair or on your own, complete the following challenges.
-- [Review: Abstract Data Structures](https://github.com/bobolinks-2014/review-abstract-data-structures-challenge)
-- [Review: Calculating Subsets with Recursion](https://github.com/bobolinks-2014/review-calculating-subsets-with-recursion-challenge)
-- [Review: Reflect and Iterate](https://github.com/bobolinks-2014/review-reflect-and-iterate-challenge)
-- [Review: Reflect on Learning](https://github.com/bobolinks-2014/review-reflect-on-learning-challenge)
-- [Review: Revisit Roman Numerals](https://github.com/bobolinks-2014/review-revisit-roman-numeral-challenge)
+- [Review: Abstract Data Structures](https://github.com/mantises-2014/review-abstract-data-structures-challenge)
+- [Review: Calculating Subsets with Recursion](https://github.com/mantises-2014/review-calculating-subsets-with-recursion-challenge)
+- [Review: Reflect and Iterate](https://github.com/mantises-2014/review-reflect-and-iterate-challenge)
+- [Review: Reflect on Learning](https://github.com/mantises-2014/review-reflect-on-learning-challenge)
+- [Review: Revisit Roman Numerals](https://github.com/mantises-2014/review-revisit-roman-numeral-challenge)
 
 ### Prep for Tomorrow
 - [Ruby Scope](../readings/ruby-scope/README.md)

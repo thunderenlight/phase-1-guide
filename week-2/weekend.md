@@ -4,17 +4,17 @@
 ##### Core Challenges
 Either with a pair or on your own, complete the following challenges.
 - Install SQLite on your laptop and ensure that it is working.
-- [Database Drill: Student Roster](https://github.com/bobolinks-2014/database-drill-student-roster-challenge)
-- [Database Drill: One to Many Schema](https://github.com/bobolinks-2014/database-drill-one-to-many-schema-challenge)
-- [Database Drill: One to One Schema](https://github.com/bobolinks-2014/database-drill-one-to-one-schema-challenge)
-- [Database Drill: Many to Many Schema](https://github.com/bobolinks-2014/database-drill-many-to-many-schema-challenge)
-- [Database Drill: Address Book Schema](https://github.com/bobolinks-2014/db-drill-address-book-schema-challenge)
-- [Database Drill: Intro to SQLite](https://github.com/bobolinks-2014/database-drill-intro-to-sqlite-challenge)
+- [Database Drill: Student Roster](https://github.com/mantises-2014/database-drill-student-roster-challenge)
+- [Database Drill: One to Many Schema](https://github.com/mantises-2014/database-drill-one-to-many-schema-challenge)
+- [Database Drill: One to One Schema](https://github.com/mantises-2014/database-drill-one-to-one-schema-challenge)
+- [Database Drill: Many to Many Schema](https://github.com/mantises-2014/database-drill-many-to-many-schema-challenge)
+- [Database Drill: Address Book Schema](https://github.com/mantises-2014/db-drill-address-book-schema-challenge)
+- [Database Drill: Intro to SQLite](https://github.com/mantises-2014/database-drill-intro-to-sqlite-challenge)
 
 ##### Stretch Challenges
 - [Bowling Game Code Kata](http://content.codersdojo.org/code-kata-catalogue/bowling-game/) (external website)
-- [OO Inheritance](https://github.com/bobolinks-2014/p5-oo-inheritance-challenge)
-- [OO Terminology](https://github.com/bobolinks-2014/p6-oo-terminology-challenge)
+- [OO Inheritance](https://github.com/mantises-2014/p5-oo-inheritance-challenge)
+- [OO Terminology](https://github.com/mantises-2014/p6-oo-terminology-challenge)
 
 
 ### Required Reading

@@ -2,17 +2,17 @@
 
 ### Challenges
 ##### Core Challenges
-- [Data Drill: Nested Arrays](https://github.com/bobolinks-2014/data-drill-nested-arrays-challenge)
-- [Data Drill: Nested Arrays 2](https://github.com/bobolinks-2014/nested-arrays-2-ruby-for-conversion-and-seeding-challenge)
-- [Ruby Racer](https://github.com/bobolinks-2014/ruby-racer-1-outrageous-fortune-challenge)
-- [Boggle 1: Basic Board Generation](https://github.com/bobolinks-2014/boggle-1-basic-board-generation-challenge)
-- [Boggle 2: Word Checker](https://github.com/bobolinks-2014/boggle-2-word-checker-challenge)
+- [Data Drill: Nested Arrays](https://github.com/mantises-2014/data-drill-nested-arrays-challenge)
+- [Data Drill: Nested Arrays 2](https://github.com/mantises-2014/nested-arrays-2-ruby-for-conversion-and-seeding-challenge)
+- [Ruby Racer](https://github.com/mantises-2014/ruby-racer-1-outrageous-fortune-challenge)
+- [Boggle 1: Basic Board Generation](https://github.com/mantises-2014/boggle-1-basic-board-generation-challenge)
+- [Boggle 2: Word Checker](https://github.com/mantises-2014/boggle-2-word-checker-challenge)
 
 ##### Stretch Challenges
-- [Review: Abstract Data Structures](https://github.com/bobolinks-2014/review-abstract-data-structures-challenge)
-- [Data Drill: Stack and Queue](https://github.com/bobolinks-2014/data-drill-stack-and-queue-challenge)
-- [Data Drill: Linked List](https://github.com/bobolinks-2014/data-drill-linked-list-challenge)
-- [Numbers in Words](https://github.com/bobolinks-2014/numbers-in-words-challenge)
+- [Review: Abstract Data Structures](https://github.com/mantises-2014/review-abstract-data-structures-challenge)
+- [Data Drill: Stack and Queue](https://github.com/mantises-2014/data-drill-stack-and-queue-challenge)
+- [Data Drill: Linked List](https://github.com/mantises-2014/data-drill-linked-list-challenge)
+- [Numbers in Words](https://github.com/mantises-2014/numbers-in-words-challenge)
 
 
 ### Prep for Tomorrow
