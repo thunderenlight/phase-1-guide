@@ -1,8 +1,6 @@
 # RSpec Basics
 
-## What you need to know on day one
-
-### How to run your tests
+## How to run your tests
 
 Most challenges will have 2 main ruby files, a .rspec file and a Gemfile in the source folder.
 
@@ -20,7 +18,7 @@ To run our tests we will run the following command.  It allows rspec to pick up 
 > rspec pig_latin_spec.rb
 ```
 
-### What does the output mean?
+## What does the output mean?
 
 When you run your tests, you will get feedback as to what happened.
 
@@ -64,7 +62,7 @@ The tests that have failed will be noted with a `FAILED` next to their name and 
 
 It is your job to **READ THE ERROR** and decide what code change to make next to make the program work and satisfy the expectation of the test.
 
-### Anatomy of a test
+## Anatomy of a test
 
 The ***describe*** block
 ```ruby
