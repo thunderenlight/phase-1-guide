@@ -15,10 +15,11 @@
 
 **Week 1:**
 
-1.
-2.
-3.
-4.
+1.  Kyle Daugherty, Nigel Dunetts, Peggy Fox, Clayton Jordan
+2.  Theo Skolnik, Michael E Daugherty, Zach Taylor, Ryan Bahniuk
+3.  Helin Shiah, Brandon Manson, Phuc Ricky Do, James Miller
+4.  Zac Mitton, Dakota Cousineau, Isaac Keith, Neel Shah
+5.  Joseph Hendele, Pete Brooks, Santiago Baus, Lovinder Pnag
 
 
 <!--
