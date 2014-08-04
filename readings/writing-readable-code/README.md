@@ -25,7 +25,7 @@ Names should be descriptive.  A variable name should inform readers of the value
 
 Variables with names like `x` might make sense in the moment you're writing code, but a few days later, you might have to ask yourself, "Now, what was 'x'?"  And, someone unfamiliar with your code would have no clue.  In addition, variable names like `string` or `array` pass on information about the type of object assigned to the variable, but not what the object represents.
 
-```
+```ruby
 # poor naming choices
 require 'prime'
 
@@ -69,3 +69,23 @@ def possible_factors_of(number)
   (2..(number / 2))
 end
 ```
+
+### Method Chaining
+Chaining method calls together can make code more concise and readable:
+
+```ruby
+def doubled_evens(numbers)
+  numbers.select(&:even?).map { |number| number * 2 }
+end
+
+my_numbers = [1, 2, 3, 4]
+
+doubled_events(my_numbers)
+# => [4, 8]
+```
+
+In the code above, the body of the `doubled_evens` method shows an example of method chaining.  Notice that the data type does not change.  The method accepts an array argument and calls `#select` on that array, returning another array.  `#map` is called on this returned array, returning yet another array.
+
+Be wary of hiding a change of data type (e.g., array to string) within a chain of method calls.
+
+Also, remember that you are attempting to write readable code.  Less lines of code is generally a good thing, but not if it makes the code harder to understand. The computer will chain a dozen method calls without a problem, but it will be difficult for a person to read.
