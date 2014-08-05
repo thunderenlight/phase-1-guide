@@ -16,7 +16,7 @@
 
 
 ### Prep for Tomorrow
-- [Single Responsibility Methods](../reading/single-responsibility-methods/README.md)
+- [Single Responsibility Methods](../readings/single-responsibility-methods/README.md)
 
 
 ### Lecture Topics
