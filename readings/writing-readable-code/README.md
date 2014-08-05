@@ -20,6 +20,8 @@ However, people do care.  The "Ruby way" is to write code that is easily underst
 ### Style
 There is a [Ruby Style Guide](https://github.com/styleguide/ruby) on GitHub that describes how your code should be written.  It includes guidelines on indentation and white space, delimiting blocks with `{...}` or `do ... end`, naming, etc.  Familiarize yourself with these guidelies and apply them to your code.
 
+Pay particular attention to indentation.  Indentation will make your code much easier to read:  what lines belong to which methods, when does an `if` statement end, which lines are with a block, etc.  If code is not indented properly, it's much more difficult for a human to parse (i.e., read).
+
 ### Variable and Method Naming
 Names should be descriptive.  A variable name should inform readers of the value assigned to the variable.  Methods should be named the same way:  inform readers what the method does ... or at least what it returns.
 
