@@ -35,10 +35,10 @@ It receives an array of integers and it returns another array that includes the 
 
 In it's current form, it's doing much more than that.  At a minimum, it is ...
 
-1. determining what it means for a number to be prime.
+1. determining what it means for a number to be prime.  
    `{ |x| (2..x-1).select { |i| x % i == 0 }.count == 0 }`
 
-2. determining how to square a number.
+2. determining how to square a number.  
   `{ |p| p * p }`
 
 Furthermore, in the way the method identifies prime numbers in an array and squares all numbers in an array, it is hiding even more logic, which we'll see later.
