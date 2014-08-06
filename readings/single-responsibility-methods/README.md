@@ -18,8 +18,8 @@ Looking at this method, it doesn't look all that complex.  It's hard to read bec
 ```
 def squared_primes(numbers)
   # find the primes
-  primes = numbers do |x|
-    (2..x-1).select { |i| x % i == 0 }.count == 0 
+  primes = numbers.find_all do |x|
+    (2..x-1).select { |i| x % i == 0 }.count == 0
   end
 
   # square the primes
@@ -29,18 +29,18 @@ end
 
 It's now much more readable.  We find the prime numbers in the `numbers` argument and then square each of those prime numbers.  Just that simple refactor and explanation makes it obvious that this method has multiple bits of logic tucked inside itself.  The clue is that the method does that *and* that.
 
-Ask yourself, "What is the responsibility of this method?"  
+Ask yourself, "What is the responsibility of this method?"
 
 It receives an array of integers and it returns another array that includes the square of any prime number in the argument array.
 
 In it's current form, it's doing much more than that.  At a minimum, it is ...
 
-1. determining what it means for a number to be prime.  
+1. determining what it means for a number to be prime.
    `{ |x| (2..x-1).select { |i| x % i == 0 }.count == 0 }`
- 
-2. determining how to square a number.  
+
+2. determining how to square a number.
   `{ |p| p * p }`
-  
+
 Furthermore, in the way the method identifies prime numbers in an array and squares all numbers in an array, it is hiding even more logic, which we'll see later.
 
 For now, a simple refactor would be to extract identifying primes in an array and squaring numbers in an array:
@@ -53,7 +53,7 @@ end
 
 def primes_in(numbers)
   numbers.find_all do |x|
-    (2..x-1).select{ |i| x % i == 0 }.count == 0 
+    (2..x-1).select{ |i| x % i == 0 }.count == 0
   end
 end
 
@@ -71,7 +71,7 @@ end
 
 def primes_in(numbers)
   numbers.find_all do |x|
-    (2..x-1).select { |i| x % i == 0 }.count == 0 
+    (2..x-1).select { |i| x % i == 0 }.count == 0
   end
 end
 
@@ -84,7 +84,7 @@ The purpose of the `#squared_primes` method is now very clear.  With our well na
 
 In addition to a method whose code is readable and whose purpose is clear, we've gained a couple of methods that might prove useful in the future.  There is a method for finding prime numbers in an array and another method that will square all numbers in an array.
 
-However, our new methods are hiding logic of their own.  
+However, our new methods are hiding logic of their own.
 
 The `#square_all` method hides how to square a number within the block that it passes to `#map`.  We can extract squaring a number into its own method, giving us the possibility to square any number we want in the future—just pass the number to the `#square` method.
 
@@ -95,7 +95,7 @@ end
 
 def primes_in(numbers)
   numbers.find_all do |x|
-    (2..x-1).select { |i| x % i == 0 }.count == 0 
+    (2..x-1).select { |i| x % i == 0 }.count == 0
   end
 end
 
@@ -236,12 +236,12 @@ end
 ## Conclusion
 At this point, we've taken a largely illegible method, refactored it to make it more readable, and piece-by-piece extracted out all the tiny bits of logic being done.  It might seem like a lot of extra work to take a working method and make changes that provide no immediate gains.
 
-However, consider Wednesday's [prime factors challenge](https://github.com/mantises-2014/algorithm-drill-prime-factors-challenge).  What does that challenge entail?  Finding the a numbers factors?  Detmining whether or not a number is prime?  I can complete the prime factors challenge relying largely on the individual methods extracted from the `#squared_primes` method to do the heavy lifting.  
+However, consider Wednesday's [prime factors challenge](https://github.com/mantises-2014/algorithm-drill-prime-factors-challenge).  What does that challenge entail?  Finding the a numbers factors?  Detmining whether or not a number is prime?  I can complete the prime factors challenge relying largely on the individual methods extracted from the `#squared_primes` method to do the heavy lifting.
 
 ```
 def prime_factors(number)
   return Array.new unless number > 1
-  
+
   first_prime_factor = primes_in(factors(number)).first
   [first_prime_factor] + prime_factors(number / first_prime_factor)
 end
