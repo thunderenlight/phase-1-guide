@@ -160,7 +160,7 @@ def square(number)
 end
 ```
 
-We've now descibed in the `#is_prime?` method what it means to be prime: (1) a number is greater than 1 and (2) it has no factors other than 1 and itself.  1 is not considered to be prime.  This logic around 1 was not present in the original method, but is being introduced here to be mathematically correct.
+We've now described in the `#is_prime?` method what it means to be prime: (1) a number is greater than 1 and (2) it has no factors other than 1 and itself.  1 is not considered to be prime.  This logic around 1 was not present in the original method, but is being introduced here to be mathematically correct.
 
 And, we have another method that we might reuse later:  `#has_factors_other_than_one_and_self?`.  This method can be broken down itself.  It's purpose is to identify whether the factors of a number includes any value other than 1 and the number itself.  Finding the factors is not its responsibility; that should belong in another method.
 
@@ -236,7 +236,7 @@ end
 ## Conclusion
 At this point, we've taken a largely illegible method, refactored it to make it more readable, and piece-by-piece extracted out all the tiny bits of logic being done.  It might seem like a lot of extra work to take a working method and make changes that provide no immediate gains.
 
-However, consider Wednesday's [prime factors challenge](https://github.com/mantises-2014/algorithm-drill-prime-factors-challenge).  What does that challenge entail?  Finding the a numbers factors?  Detmining whether or not a number is prime?  I can complete the prime factors challenge relying largely on the individual methods extracted from the `#squared_primes` method to do the heavy lifting.
+However, consider Wednesday's [prime factors challenge](https://github.com/mantises-2014/algorithm-drill-prime-factors-challenge).  What does that challenge entail?  Finding a numbers factors?  Determining whether or not a number is prime?  I can complete the prime factors challenge, relying largely on the individual methods extracted from the `#squared_primes` method to do the heavy lifting.
 
 ```ruby
 def prime_factors(number)
