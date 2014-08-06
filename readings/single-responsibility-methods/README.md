@@ -6,7 +6,7 @@ Writing methods with a single responsibility is a practice that is stressed in P
 ## Breaking Down a Method
 On Monday you were presented with a [design drill challenge dealing with method chaining](https://github.com/mantises-2014/design-drill-method-chaining-challenge).  Release 1 asked you to refactor a `squared_primes` method.
 
-```
+```ruby
 # FIXME: This is convoluted. Refactor for clarity.
 def squared_primes(array)
   array.find_all{|x| (2..x-1).select(){|i| x % i == 0 }.count == 0 }.map{|p| p*p}
@@ -15,7 +15,7 @@ end
 
 Looking at this method, it doesn't look all that complex.  It's hard to read because of the method chaining, the nested blocks within blocks, and unnecessary parentheses, but it can be cleaned up fairly easily:
 
-```
+```ruby
 def squared_primes(numbers)
   # find the primes
   primes = numbers.find_all do |x|
@@ -45,7 +45,7 @@ Furthermore, in the way the method identifies prime numbers in an array and squa
 
 For now, a simple refactor would be to extract identifying primes in an array and squaring numbers in an array:
 
-```
+```ruby
 def squared_primes(numbers)
   primes = primes_in(numbers)
   square_all(primes)
@@ -64,7 +64,7 @@ end
 
 And we can then make the code of `#squared_primes` even more concise:
 
-```
+```ruby
 def squared_primes(numbers)
   square_all primes_in(numbers)
 end
@@ -88,7 +88,7 @@ However, our new methods are hiding logic of their own.
 
 The `#square_all` method hides how to square a number within the block that it passes to `#map`.  We can extract squaring a number into its own method, giving us the possibility to square any number we want in the future—just pass the number to the `#square` method.
 
-```
+```ruby
 def squared_primes(numbers)
   square_all primes_in(numbers)
 end
@@ -110,7 +110,7 @@ end
 
 There is even more logic tucked away within the `#primes_in` method.  The block passed to the `#find_all` method identifies whether or not a number is prime.  We can move that to its own method.
 
-```
+```ruby
 def squared_primes(numbers)
   square_all primes_in(numbers)
 end
@@ -134,7 +134,7 @@ end
 
 Our new `#is_prime?` method can now be used any time we might need to determine whether or not an `Integer` is prime.  What is this method really doing?  If we look at the code, it's determining whether or not a number has factors other than 1 and itself.  Let's extract finding factors other than 1 and self into its own method.
 
-```
+```ruby
 def squared_primes(numbers)
   square_all primes_in(numbers)
 end
@@ -164,7 +164,7 @@ We've now descibed in the `#is_prime?` method what it means to be prime: (1) a n
 
 And, we have another method that we might reuse later:  `#has_factors_other_than_one_and_self?`.  This method can be broken down itself.  It's purpose is to identify whether the factors of a number includes any value other than 1 and the number itself.  Finding the factors is not its responsibility; that should belong in another method.
 
-```
+```ruby
 def squared_primes(numbers)
   square_all primes_in(numbers)
 end
@@ -196,7 +196,7 @@ end
 
 We now have a `#factors` method that will return the factors of any number.  As you might have guessed, there's more logic to be extracted from this new method.  There are two things.  First, the method identifies the possible factors of `number`:  `(1..number)`.  Second, in determining whether or not a possible factor is in deed a factor, the block tests whether `number` is evenly divisible by the possible factor.  Both of these can be extracted to their own methods.
 
-```
+```ruby
 def squared_primes(numbers)
   square_all primes_in(numbers)
 end
@@ -238,7 +238,7 @@ At this point, we've taken a largely illegible method, refactored it to make it 
 
 However, consider Wednesday's [prime factors challenge](https://github.com/mantises-2014/algorithm-drill-prime-factors-challenge).  What does that challenge entail?  Finding the a numbers factors?  Detmining whether or not a number is prime?  I can complete the prime factors challenge relying largely on the individual methods extracted from the `#squared_primes` method to do the heavy lifting.
 
-```
+```ruby
 def prime_factors(number)
   return Array.new unless number > 1
 
