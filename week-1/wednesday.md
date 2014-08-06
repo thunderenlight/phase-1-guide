@@ -5,11 +5,12 @@
 - [Algorithm Drill: Factorial](https://github.com/mantises-2014/algorithm-drill-factorial-challenge)
 - [The Fibonacci Sequence](https://github.com/mantises-2014/the-fibonacci-sequence-challenge)
 - [Recursion vs. Iteration: Benchmark it!](https://github.com/mantises-2014/recursion-vs-iteration-benchmarking-it-challenge)
-- [Algorithm Drill: Prime Factors](https://github.com/mantises-2014/algorithm-drill-prime-factors-challenge)
-- [Anagrams 1: Detecting Anagrams](https://github.com/mantises-2014/anagrams-1-detecting-anagrams-challenge)
-- [Anagrams 2: Generating Anagrams](https://github.com/mantises-2014/anagrams-2-generating-anagrams-challenge)
 - [Algorithm Drill: Linear Search](https://github.com/mantises-2014/algorithm-drill-linear-search-challenge)
 - [Algorithm Drill: Binary Search](https://github.com/mantises-2014/algorithm-drill-binary-search-challenge)
+- [Anagrams 1: Detecting Anagrams](https://github.com/mantises-2014/anagrams-1-detecting-anagrams-challenge)
+- [Anagrams 2: Generating Anagrams](https://github.com/mantises-2014/anagrams-2-generating-anagrams-challenge)
+- [Algorithm Drill: Prime Factors](https://github.com/mantises-2014/algorithm-drill-prime-factors-challenge)
+
 
 ##### Stretch Challenges
 - [Advanced Calculator](https://github.com/mantises-2014/advanced-calculator-challenge)
