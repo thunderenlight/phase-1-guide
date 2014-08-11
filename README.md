@@ -22,15 +22,14 @@
 5.  Joseph Hendele, Pete Brooks, Santiago Baus, Lovinder Pnag
 
 
-<!--
 **Week 2:**
 
-1.
-2.
-3.
-4.
+1. Lovinder, Zac Mitton, Pete, Mike
+2. Joey, Helin, Nigel, James Miller
+3. Santiago, Kyle, Theo, Peggy, Aaron
+4. Isaac, Clayton, Brandon, Ryan
+5. Dakota, Zach Taylor, Phuc, Brandon
 
--->
 
 <!--
 **Week 3:**
