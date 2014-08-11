@@ -28,7 +28,7 @@
 2. Joey, Helin, Nigel, James Miller
 3. Santiago, Kyle, Theo, Peggy, Aaron
 4. Isaac, Clayton, Brandon, Ryan
-5. Dakota, Zach Taylor, Phuc, Brandon
+5. Dakota, Zach Taylor, Ricky, Neel
 
 
 <!--
