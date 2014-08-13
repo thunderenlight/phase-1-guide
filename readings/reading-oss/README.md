@@ -6,7 +6,7 @@ You've now worked with Ruby's `CSV` library.  `CSV` is a class that allows devel
 
 Like working with .csv files, there are other tasks for which developers have written libraries.  These libraries, when written for Ruby, are often distributed as [gems](http://rubylearning.com/blog/2010/12/14/ruby-gems-%E2%80%94-what-why-and-how/).  In Phase 1, you'll be working with gems like [Nokogiri](https://rubygems.org/gems/nokogiri), [ActiveRecord](https://rubygems.org/gems/activerecord), [Rake](https://rubygems.org/gems/rake), etc.  Using these libraries prevents us from recreating the wheel.  If I want to grab some information from a website to use in my Ruby program, I don't have to build my own web scraper, I can use Nokogiri in my application.
 
-As with `CSV`, however, we do have to invest some time learning how to use the library.  The quality of documentation will vary from libraray to library.  Some developers will provide very clear documentation for how the library works:  what methods are availalbe, what the methods return, etc.  For other libraries, the documentation can be murky.
+As with `CSV`, however, we do have to invest some time learning how to use the library.  The quality of documentation will vary from library to library.  Some developers will provide very clear documentation for how the library works:  what methods are availalbe, what the methods return, etc.  For other libraries, the documentation can be murky.
 
 ## Installing
 
