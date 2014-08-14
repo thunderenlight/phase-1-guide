@@ -1,4 +1,5 @@
 # MVC:  Model-View-Controller
+Written by [Torey Hickman](https://github.com/toreyhickman).
 
 ## Introduction
 
