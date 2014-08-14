@@ -1,4 +1,4 @@
-
+# Introduction to Schema Design
 
 We create objects to hold data, but our data is lost when our program has finished executing because we aren't storing this data anywhere. What if we want to use the current state of our objects later? We'll need a way to access this data in the future (we need this data to persist). In the upcoming week, we'll explore saving data in CSV's and databases. 
 
