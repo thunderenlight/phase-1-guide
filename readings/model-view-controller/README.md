@@ -14,6 +14,7 @@ Model-View-Controller is a [design pattern](http://en.wikipedia.org/wiki/Softwar
 In applying object-oriented principles, you've begun to write methods that are responsible for doing a single thing and to write classes and modules that have a single purpose.  Within the Model-View-Controller pattern, your program's responsibilities will be divided between (1) the data and business logic, (2) the user interface, and (3) coordinating between the two.  Figure 1 breaks down the responsibilities of each part of your application.  
 
 ![M-V-C Overview](mvc-overview.jpg)
+
 *Figure 1.* Model-View-Controller Overview
 
 ### Model
@@ -29,6 +30,7 @@ The Controller stands between the Model and the View.  The View provides an inte
 
 
 ![M-V-C Sequence](mvc-sequence.gif)
+
 *Figure 2.* Model-View-Controller Workflow
 
 Firgure 2 displays a workflow from user input to output in the Model-View-Controller design pattern.  It begins with the user providing input through the interface that the View provides.  The View passes the input to the Controller, which interprets the input.  In this example, the Controller determines that it needs to get some data from the Model, and it requests the data.  The Model then gathers the appropriate data and returns it to the Controller.  The Controller passes the data to the View.  The View displays the data to the user, and the cycle is ready to repeat—the user can send the next piece of input.
