@@ -30,16 +30,13 @@
 4. Isaac, Clayton, Brandon, Ryan
 5. Dakota, Zach Taylor, Ricky, Neel
 
-
-<!--
 **Week 3:**
 
-1.
-2.
-3.
-4.
-
--->
+1. Zach Taylor, Pete, Helin, Santiago
+2. Joe, Mike, Dakota, Clayton
+3. Brandon, Nigel, Aaron, Isaac
+4. Theo, Ricky, James, Lovinder
+5. Peggy, Zach Mitton, Kyle, Neel, Ryan
 
 
 ### Additional Resources
