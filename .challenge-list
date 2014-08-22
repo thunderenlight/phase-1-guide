@@ -1,4 +1,4 @@
-99-bottles-challenge
-pig-latin-challenge
-poll-database-design-challenge
-world-s-simplest-browser-challenge
+99-bottles-challenge, rspec
+pig-latin-challenge, rspec
+poll-database-design-challenge, rspec
+world-s-simplest-browser-challenge, rspec
